@@ -1,7 +1,7 @@
 # ZHTLLM - Local Meeting Assistant  
 
 Hi, this is the **front end** of the project **ZHTLLM**.  
-ZHTLLM is a **local meeting assistant** specially designed for the **AMD Ryzen AI platform**.  
+ZHTLLM is a local meeting assistant specially designed to run using AMD Ryzen AI NPU with high performance and low power consumption.
 
 ---
 
@@ -76,6 +76,15 @@ python main_gui_4.py
 ## 📺 Showcase Video  
 
 [![Watch the video](assets/cover.png)](https://www.bilibili.com/video/BV1KGYUzLE26)  
+
+## 🙏 Acknowledgement  
+
+This project would not have been possible without the support of the following:  
+
+- [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) for providing the LLM backend.  
+- [Ollama](https://ollama.ai) for local LLM deployment.  
+- The **AMD Ryzen AI platform** for hardware acceleration support.  
+- Open-source community contributors for their valuable tools and resources.  
 
   
 
