@@ -75,7 +75,8 @@ python main_gui_4.py
 
 ## 📺 Showcase Video  
 
-[![Watch the video](assets/cover.png)](https://www.bilibili.com/video/BV1xx411c7mD)  
+[![Watch the video](assets/cover.png)](https://www.bilibili.com/video/BV1KGYUzLE26)  
+
   
 
 ---
