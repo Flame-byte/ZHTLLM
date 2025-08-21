@@ -9,7 +9,25 @@ ZHTLLM is a **local meeting assistant** specially designed for the **AMD Ryzen A
 
 Follow these steps to set up and run the project:  
 
-### Step 1: Launch the FastFlowLM (flm) server  
+---
+
+### Step 1: Configure the environment with Conda  
+
+Make sure you have [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed.  
+
+Create the environment from the provided `environment.yml` file:  
+```bash
+conda env create -f environment.yml
+```
+
+Activate the environment:  
+```bash
+conda activate ZHTLLM
+```
+
+---
+
+### Step 2: Launch the FastFlowLM (flm) server  
 
 You can download **FastFlowLM** here:  
 [https://github.com/FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM)  
@@ -21,7 +39,7 @@ flm serve
 
 ---
 
-### Step 2: Launch the Ollama server  
+### Step 3: Launch the Ollama server  
 
 (Assumption: you have already downloaded **Ollama**.)  
 
@@ -37,7 +55,7 @@ ollama serve
 
 ---
 
-### Step 3: Navigate to the project folder  
+### Step 4: Navigate to the project folder  
 
 ```bash
 cd C:\your-path\ZHTLLM
@@ -45,10 +63,10 @@ cd C:\your-path\ZHTLLM
 
 ---
 
-### Step 4: Run the GUI  
+### Step 5: Run the GUI  
 
 ```bash
-python main_gui_v4.py
+python main_gui_4.py
 ```
 
 ---
@@ -57,7 +75,7 @@ python main_gui_v4.py
 
 ## 📺 Showcase Video  
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/YOUR_COVER_IMAGE.jpg)](https://www.bilibili.com/video/YOUR_BVID)  
-
+[![Watch the video](assets/cover.png)](https://www.bilibili.com/video/BV1xx411c7mD)  
+  
 
 ---
