@@ -1,0 +1,46 @@
+[2025-07-26 02:45:45] Application started
+[2025-07-26 02:45:45] Application started successfully
+[2025-07-26 02:47:04] 当前活动项目: 'test8'
+[2025-07-26 03:01:49] 已为下一次构建选择文件。
+[2025-07-26 03:01:58] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-26 03:02:16] 设置已更新。
+[2025-07-26 03:02:21] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-26 03:02:23] 正在构建项目 'test8'...
+[2025-07-26 03:12:23] Application started
+[2025-07-26 03:12:23] Application started successfully
+[2025-07-26 03:19:04] Active project set to: 'test9'
+[2025-07-26 03:20:04] Files selected for the next build.
+[2025-07-26 03:20:15] Settings updated.
+[2025-07-26 03:20:21] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-26 03:20:26] 正在构建项目 'test9'...
+[2025-07-26 03:52:58] 构建过程已完成
+[2025-07-26 03:54:11] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-26 03:54:12] 正在使用查询: 'test9' 查询项目 '大模型有什么应用场景
+
+ Answer in Chinese'...
+[2025-07-26 03:54:48] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-26 03:55:29] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-26 03:55:30] 正在使用查询: 'test9' 查询项目 '大语言模型是什么
+
+ Answer in Chinese'...
+[2025-07-26 03:55:47] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-26 03:56:21] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-26 03:56:41] 正在使用查询: 'test9' 查询项目 '大语言模型是什么
+
+ Answer in Chinese'...
+[2025-07-26 03:57:26] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-26 16:12:43] 查询配置已更新: 模式设置为 cloud, 模型设置为 deepseek-chat.
+[2025-07-26 16:12:46] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-07-26 16:13:06] 当前活动项目: 'test3'
+[2025-07-26 16:13:07] 当前活动项目: 'test2'
+[2025-07-26 16:13:09] 正在使用查询: 'test2' 查询项目 '什么是大语言模型
+
+ Answer in Chinese'...
+[2025-07-26 16:13:33] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-26 21:04:29] Active project set to: 'test2'
+[2025-07-26 21:04:50] 当前活动项目: 'test2'
+[2025-07-26 21:04:59] 项目 'test9' 的自动构建已停止。

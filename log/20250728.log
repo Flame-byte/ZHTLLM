@@ -1,0 +1,112 @@
+[2025-07-28 03:04:38] Application started
+[2025-07-28 03:04:38] Application started successfully
+[2025-07-28 03:11:41] Active project set to: 'test10'
+[2025-07-28 03:12:35] Files selected for the next build.
+[2025-07-28 03:12:41] Build configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-28 03:12:53] Settings updated.
+[2025-07-28 03:13:02] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 03:13:04] 正在构建项目 'test10'...
+[2025-07-28 03:42:12] 构建过程已完成
+[2025-07-28 04:34:09] 已为下一次构建选择文件。
+[2025-07-28 04:34:23] 设置已更新。
+[2025-07-28 04:34:33] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 04:34:37] 正在构建项目 'test10'...
+[2025-07-28 04:52:12] 构建过程已完成
+[2025-07-28 05:49:27] Application started
+[2025-07-28 05:49:27] Application started successfully
+[2025-07-28 05:50:04] Application started
+[2025-07-28 05:50:04] Application started successfully
+[2025-07-28 05:52:13] Active project set to: 'example1'
+[2025-07-28 05:52:26] Settings updated.
+[2025-07-28 05:53:23] Files selected for the next build.
+[2025-07-28 05:53:28] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-28 05:53:30] Building project 'example1'...
+[2025-07-28 06:27:59] Build process completed
+[2025-07-28 06:29:16] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 06:29:18] 正在使用查询: 'example1' 查询项目 '大语言模型在哪些领域有作用？
+
+ Answer in Chinese'...
+[2025-07-28 06:29:53] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-28 06:30:38] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 06:30:40] 正在使用查询: 'example1' 查询项目 '大语言模型是什么？
+
+ Answer in Chinese'...
+[2025-07-28 06:31:20] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 06:32:59] 已为下一次构建选择文件。
+[2025-07-28 06:33:04] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 06:33:06] 正在构建项目 'example1'...
+[2025-07-28 07:02:45] 构建过程已完成
+[2025-07-28 07:03:48] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 07:03:56] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 07:03:57] 正在使用查询: 'example1' 查询项目 '大语言模型最重要的架构是什么，是在哪一年发明的？
+
+ Answer in Chinese'...
+[2025-07-28 07:04:12] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-28 07:05:18] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 07:05:19] 正在使用查询: 'example1' 查询项目 '大语言模型有什么广泛的影响？
+
+ Answer in Chinese'...
+[2025-07-28 07:06:25] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 07:13:15] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 07:13:29] 设置已更新。
+[2025-07-28 07:14:15] 项目 'example1' 的自动构建已停止。
+[2025-07-28 07:15:08] 项目 'example1' 的自动构建已停止。
+[2025-07-28 08:34:52] 项目 'example1' 的自动构建已停止。
+[2025-07-28 08:37:09] 项目 'example1' 的自动构建已停止。
+[2025-07-28 08:37:14] 当前活动项目: 'test2'
+[2025-07-28 08:37:15] 当前活动项目: 'test11'
+[2025-07-28 08:37:17] 当前活动项目: 'test10'
+[2025-07-28 08:38:28] 设置已更新。
+[2025-07-28 16:25:39] 当前活动项目: 'example1'
+[2025-07-28 16:36:00] 当前活动项目: 'test2'
+[2025-07-28 16:36:53] 已为下一次构建选择文件。
+[2025-07-28 16:36:58] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 16:37:01] 正在构建项目 'test2'...
+[2025-07-28 17:05:53] 构建过程已完成
+[2025-07-28 20:49:11] 当前活动项目: 'Chinese-test'
+[2025-07-28 20:49:13] 当前活动项目: 'example1'
+[2025-07-28 20:50:23] 当前活动项目: 'ZHTLLM_Meeting_text'
+[2025-07-28 20:50:50] 已为下一次构建选择文件。
+[2025-07-28 20:50:55] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 20:50:56] 正在构建项目 'ZHTLLM_Meeting_text'...
+[2025-07-28 21:50:52] 构建过程已完成
+[2025-07-28 21:51:41] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-28 21:51:42] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '项目会议的发展介绍一下
+
+ Answer in Chinese'...
+[2025-07-28 21:52:27] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 22:06:52] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '三场会议之间都有哪些任务交付
+
+ Answer in Chinese'...
+[2025-07-28 22:07:36] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 22:09:12] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '第一场会议什么时候开的，有哪些人
+
+ Answer in Chinese'...
+[2025-07-28 22:09:46] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 22:11:41] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '2025/5/21没有吗
+
+ Answer in Chinese'...
+[2025-07-28 22:12:08] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 22:13:28] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 'Graphrag有哪些需要注意的点
+
+ Answer in Chinese'...
+[2025-07-28 22:14:23] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-28 22:15:27] 已为下一次构建选择文件。
+[2025-07-28 22:15:29] 正在构建项目 'ZHTLLM_Meeting_text'...
+[2025-07-28 23:09:56] 构建过程已完成
+[2025-07-29 19:54:17] 已为下一次构建选择文件。
+[2025-07-29 19:54:23] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:4b.
+[2025-07-29 19:54:26] 正在构建项目 'ZHTLLM_Meeting_text'...
+[2025-07-29 19:56:41] 构建过程已完成
+[2025-07-29 19:57:57] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '会议的历史进程
+
+ Answer in Chinese'...
+[2025-07-29 19:59:41] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-29 20:36:13] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '会议中各自任务都有哪些
+
+ Answer in Chinese'...
+[2025-07-29 20:38:12] 查询已完成: creating llm client with {'api_key': 'REDACTED,len

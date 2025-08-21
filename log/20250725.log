@@ -1,0 +1,428 @@
+[2025-07-25 10:04:32] Application started
+[2025-07-25 10:04:32] Application started successfully
+[2025-07-25 10:04:36] Active project set to: 'test1'
+[2025-07-25 10:04:37] Active project set to: 'test2'
+[2025-07-25 10:04:37] Active project set to: 'test3'
+[2025-07-25 10:04:38] Active project set to: 'test4'
+[2025-07-25 10:04:39] Active project set to: 'test5'
+[2025-07-25 10:04:40] Active project set to: 'test1'
+[2025-07-25 10:25:02] Application started
+[2025-07-25 10:25:03] Application started successfully
+[2025-07-25 10:35:42] Application started
+[2025-07-25 10:35:42] Application started successfully
+[2025-07-25 10:36:43] 错误: 项目 'test6' 初始化失败 - Project 'test6' already exists.
+[2025-07-25 10:36:57] 错误: 项目 'abcd' 初始化失败 - Project 'abcd' already exists.
+[2025-07-25 10:37:08] 错误: 项目 'test6' 初始化失败 - Project 'test6' already exists.
+[2025-07-25 10:39:13] Application started
+[2025-07-25 10:39:13] Application started successfully
+[2025-07-25 10:39:32] 错误: 项目 'test6' 初始化失败 - Project 'test6' already exists.
+[2025-07-25 10:43:23] Application started
+[2025-07-25 10:43:24] Application started successfully
+[2025-07-25 10:44:27] Application started
+[2025-07-25 10:44:27] Application started successfully
+[2025-07-25 10:49:42] Application started
+[2025-07-25 10:49:42] Application started successfully
+[2025-07-25 10:49:51] 错误: 项目 'test4' 初始化失败 - Project 'test4' already exists.
+[2025-07-25 10:50:44] Application started
+[2025-07-25 10:50:44] Application started successfully
+[2025-07-25 10:50:58] 错误: 项目 'abcde' 初始化失败 - Project 'abcde' already exists.
+[2025-07-25 10:53:38] Application started
+[2025-07-25 10:53:38] Application started successfully
+[2025-07-25 10:53:57] 错误: 项目 'test4' 初始化失败 - Project 'test4' already exists.
+[2025-07-25 10:57:17] Application started
+[2025-07-25 10:57:17] Application started successfully
+[2025-07-25 14:45:46] Application started
+[2025-07-25 14:45:47] Application started successfully
+[2025-07-25 14:45:55] Active project set to: 'test4'
+[2025-07-25 14:46:16] Auto build stopped for project 'test4'.
+[2025-07-25 14:46:28] 项目 'test4' 的自动构建已停止。
+[2025-07-25 14:48:33] Application started
+[2025-07-25 14:48:33] Application started successfully
+[2025-07-25 14:48:43] Active project set to: 'test2'
+[2025-07-25 15:00:10] Auto build stopped for project 'test2'.
+[2025-07-25 15:00:34] Application started
+[2025-07-25 15:00:34] Application started successfully
+[2025-07-25 15:00:48] 当前活动项目: 'test2'
+[2025-07-25 15:00:49] 当前活动项目: 'test4'
+[2025-07-25 15:01:21] 项目 'test4' 的自动构建已启动，每 10 分钟一次。
+[2025-07-25 15:01:24] 项目 'test4' 的自动构建已停止。
+[2025-07-25 15:02:14] 项目 'test4' 的自动构建已停止。
+[2025-07-25 15:09:22] 项目 'test4' 的自动构建已停止。
+[2025-07-25 15:11:04] Application started
+[2025-07-25 15:11:04] Application started successfully
+[2025-07-25 15:11:08] Active project set to: 'test4'
+[2025-07-25 15:11:48] Auto build stopped for project 'test4'.
+[2025-07-25 15:36:32] Application started
+[2025-07-25 15:36:33] Application started successfully
+[2025-07-25 15:36:39] Active project set to: 'test4'
+[2025-07-25 15:42:08] Application started
+[2025-07-25 15:42:08] Application started successfully
+[2025-07-25 15:42:32] Active project set to: 'test2'
+[2025-07-25 15:43:15] Auto build stopped for project 'test2'.
+[2025-07-25 15:45:01] Auto build stopped for project 'test2'.
+[2025-07-25 15:47:09] Application started
+[2025-07-25 15:47:10] Application started successfully
+[2025-07-25 15:47:14] Active project set to: 'test4'
+[2025-07-25 15:48:49] Auto build stopped for project 'test4'.
+[2025-07-25 16:04:24] Application started
+[2025-07-25 16:04:24] Application started successfully
+[2025-07-25 16:04:42] Active project set to: 'test2'
+[2025-07-25 16:05:34] Auto build started for project 'test2' every 3 minutes.
+[2025-07-25 16:12:16] Auto build stopped for project 'test2'.
+[2025-07-25 16:12:27] Auto build stopped for project 'test2'.
+[2025-07-25 16:28:02] Application started
+[2025-07-25 16:43:20] Application started
+[2025-07-25 16:47:24] Application started
+[2025-07-25 16:48:58] Application started
+[2025-07-25 16:49:46] Application started
+[2025-07-25 16:49:46] Application started successfully
+[2025-07-25 16:49:56] Active project set to: 'test2'
+[2025-07-25 16:49:57] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:49:57] Query completed: Cannot perform search: a build process is currentl
+[2025-07-25 16:50:39] Querying project 'test2' with query: ''什么是大语言模型？'...
+[2025-07-25 16:50:50] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:50:55] Auto build stopped for project 'test2'.
+[2025-07-25 16:51:30] Querying project 'test2' with query: '会议讲了哪些内容？'...
+[2025-07-25 16:51:32] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:52:48] Application started
+[2025-07-25 16:52:48] Application started successfully
+[2025-07-25 16:52:55] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 16:53:03] No project selected. Please create or select a project first.
+[2025-07-25 16:53:04] Active project set to: 'test2'
+[2025-07-25 16:53:04] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:53:07] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:53:59] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 16:54:05] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:54:25] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:54:55] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 16:54:55] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:54:56] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:56:58] Application started
+[2025-07-25 16:56:58] Application started successfully
+[2025-07-25 16:57:09] Active project set to: 'test2'
+[2025-07-25 16:57:11] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 16:57:12] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:57:24] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:57:56] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 16:58:02] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 16:58:25] Auto build started for project 'test2' every 1 minutes.
+[2025-07-25 16:58:56] Auto build stopped for project 'test2'.
+[2025-07-25 17:00:14] Application started
+[2025-07-25 17:00:15] Application started successfully
+[2025-07-25 17:00:55] 当前活动项目: 'test5'
+[2025-07-25 17:01:59] 项目 'test5' 的自动构建已停止。
+[2025-07-25 17:16:53] Application started
+[2025-07-25 17:16:53] Application started successfully
+[2025-07-25 17:17:02] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 17:17:04] No project selected. Please create or select a project first.
+[2025-07-25 17:17:05] Active project set to: 'test2'
+[2025-07-25 17:17:06] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 17:17:14] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 17:17:19] Active project set to: 'test5'
+[2025-07-25 17:20:44] Application started
+[2025-07-25 17:20:44] Application started successfully
+[2025-07-25 17:20:46] Active project set to: 'test2'
+[2025-07-25 17:20:53] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 17:20:54] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 17:21:02] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 17:21:15] Auto build stopped for project 'test2'.
+[2025-07-25 17:23:31] 项目 'test2' 的自动构建已停止。
+[2025-07-25 17:26:30] Application started
+[2025-07-25 17:26:30] Application started successfully
+[2025-07-25 17:26:34] Active project set to: 'test2'
+[2025-07-25 17:26:41] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 17:27:09] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 17:28:41] Auto build started for project 'test2' every 1 minutes.
+[2025-07-25 17:28:44] Auto build stopped for project 'test2'.
+[2025-07-25 17:30:43] Auto build stopped for project 'test2'.
+[2025-07-25 17:31:08] Application started
+[2025-07-25 17:31:09] Application started successfully
+[2025-07-25 17:31:11] Active project set to: 'test2'
+[2025-07-25 17:31:17] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 17:31:34] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 17:35:59] Auto build stopped for project 'test2'.
+[2025-07-25 17:36:19] Application started
+[2025-07-25 17:36:19] Application started successfully
+[2025-07-25 17:36:27] Active project set to: 'test5'
+[2025-07-25 17:37:09] Auto build started for project 'test5' every 1 minutes.
+[2025-07-25 17:39:31] Auto build stopped for project 'test5'.
+[2025-07-25 17:39:54] Auto build stopped for project 'test5'.
+[2025-07-25 17:44:57] Application started
+[2025-07-25 17:44:57] Application started successfully
+[2025-07-25 17:45:10] 当前活动项目: 'test5'
+[2025-07-25 17:47:43] 当前活动项目: 'test2'
+[2025-07-25 17:47:47] 正在使用查询: 'test2' 查询项目 '什么是大语言模型'...
+[2025-07-25 17:48:04] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 17:52:07] 已为下一次构建选择文件。
+[2025-07-25 17:52:10] 正在构建项目 'test2'...
+[2025-07-25 17:52:57] 项目 'test5' 的自动构建已停止。
+[2025-07-25 17:53:40] 构建过程已完成
+[2025-07-25 17:56:01] 项目 'test2' 的自动构建已停止。
+[2025-07-25 17:56:30] Application started
+[2025-07-25 17:56:30] Application started successfully
+[2025-07-25 17:56:37] Active project set to: 'test5'
+[2025-07-25 18:03:56] Auto build stopped for project 'test5'.
+[2025-07-25 18:04:19] Application started
+[2025-07-25 18:04:19] Application started successfully
+[2025-07-25 18:04:27] Active project set to: 'test5'
+[2025-07-25 18:07:55] Auto build stopped for project 'test5'.
+[2025-07-25 18:08:21] Application started
+[2025-07-25 18:08:21] Application started successfully
+[2025-07-25 18:08:27] Active project set to: 'test5'
+[2025-07-25 18:11:26] Auto build stopped for project 'test5'.
+[2025-07-25 18:11:47] Application started
+[2025-07-25 18:11:47] Application started successfully
+[2025-07-25 18:12:41] Application started
+[2025-07-25 18:12:41] Application started successfully
+[2025-07-25 18:12:46] Active project set to: 'test5'
+[2025-07-25 18:16:19] Auto build stopped for project 'test5'.
+[2025-07-25 18:16:38] Application started
+[2025-07-25 18:16:39] Application started successfully
+[2025-07-25 18:16:47] Active project set to: 'test2'
+[2025-07-25 18:16:47] Active project set to: 'test4'
+[2025-07-25 18:16:48] Active project set to: 'test5'
+[2025-07-25 18:19:47] Auto build stopped for project 'test5'.
+[2025-07-25 18:20:06] Application started
+[2025-07-25 18:20:06] Application started successfully
+[2025-07-25 18:20:09] Active project set to: 'test5'
+[2025-07-25 18:25:42] Auto build stopped for project 'test5'.
+[2025-07-25 18:26:07] Application started
+[2025-07-25 18:26:07] Application started successfully
+[2025-07-25 18:26:16] Active project set to: 'test5'
+[2025-07-25 18:29:31] Querying project 'test5' with query: '什么是大语言模型？'...
+[2025-07-25 18:29:31] Query completed: Cannot perform search: a build process is currentl
+[2025-07-25 18:29:39] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:29:46] Querying project 'test5' with query: '什么是大语言模型'...
+[2025-07-25 18:29:46] Query completed: Cannot perform search: a build process is currentl
+[2025-07-25 18:30:15] Active project set to: 'test2'
+[2025-07-25 18:30:24] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 18:30:24] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 18:31:21] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:34:31] Settings updated.
+[2025-07-25 18:36:51] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:36:54] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:39:55] Auto build stopped for project 'test5'.
+[2025-07-25 18:40:35] Application started
+[2025-07-25 18:40:35] Application started successfully
+[2025-07-25 18:41:35] Active project set to: 'test5'
+[2025-07-25 18:41:40] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:41:52] Querying project 'test5' with query: '什么是大语言模型'...
+[2025-07-25 18:41:52] Query completed: 本地搜索数据不足。请确保 'nodes'、'entities'、'community_reports
+[2025-07-25 18:42:18] Settings updated.
+[2025-07-25 18:42:26] Querying project 'test5' with query: '什么是大语言模型'...
+[2025-07-25 18:42:26] Query completed: 本地搜索数据不足。请确保 'nodes'、'entities'、'community_reports
+[2025-07-25 18:42:29] Active project set to: 'test2'
+[2025-07-25 18:42:32] Query is empty.
+[2025-07-25 18:42:36] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 18:42:56] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 18:43:09] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 18:43:14] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:43:16] Build configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:43:18] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:54:57] Application started
+[2025-07-25 18:55:14] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:56:26] Default settings template updated for both Build and Query.
+[2025-07-25 18:56:49] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 18:56:52] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:56:54] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:56:56] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 18:58:06] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 18:58:08] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 18:59:47] Auto build stopped for project 'test2'.
+[2025-07-25 19:07:59] Application started
+[2025-07-25 19:07:59] Application started successfully
+[2025-07-25 19:08:21] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 19:08:25] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 19:09:01] Settings updated.
+[2025-07-25 19:09:19] Active project set to: 'test5'
+[2025-07-25 19:09:56] Active project set to: 'test2'
+[2025-07-25 19:10:03] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 19:10:04] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 19:10:22] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 19:11:02] Querying project 'test2' with query: '什么是大语言模型？'...
+[2025-07-25 19:11:18] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 19:11:24] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 19:11:52] Settings updated.
+[2025-07-25 19:18:19] Settings updated.
+[2025-07-25 19:18:25] Auto build stopped for project 'test5'.
+[2025-07-25 19:19:14] Application started
+[2025-07-25 19:19:14] Application started successfully
+[2025-07-25 19:20:05] Settings updated.
+[2025-07-25 19:20:20] Settings updated.
+[2025-07-25 19:26:54] Application started
+[2025-07-25 19:26:54] Application started successfully
+[2025-07-25 19:27:07] Settings updated.
+[2025-07-25 19:27:07] Global config updated: Mode set to cloud, Model set to deepseek-chat.
+[2025-07-25 19:56:10] Application started
+[2025-07-25 19:56:10] Application started successfully
+[2025-07-25 19:56:33] Application started
+[2025-07-25 19:56:33] Application started successfully
+[2025-07-25 19:56:36] Active project set to: 'test2'
+[2025-07-25 19:56:40] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 19:57:00] Active project set to: 'test5'
+[2025-07-25 19:57:07] Auto build stopped for project 'test5'.
+[2025-07-25 20:00:05] Active project set to: 'test5'
+[2025-07-25 20:00:08] Auto build stopped for project 'test5'.
+[2025-07-25 20:00:54] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 20:00:57] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-07-25 20:01:04] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 20:01:11] Active project set to: 'test2'
+[2025-07-25 20:01:21] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 20:01:42] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 20:04:51] Query configuration updated: Mode set to cloud, model set to deepseek-chat.
+[2025-07-25 20:04:52] Querying project 'test2' with query: '几位演讲者讲了哪些内容'...
+[2025-07-25 20:04:54] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 20:05:16] Querying project 'test2' with query: '讲解的内容主题是什么'...
+[2025-07-25 20:05:19] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 20:05:29] Querying project 'test2' with query: '什么是大语言模型'...
+[2025-07-25 20:05:45] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 20:25:23] 项目 'test5' 的自动构建已停止。
+[2025-07-25 20:25:27] 项目 'test2' 的自动构建已停止。
+[2025-07-25 20:42:31] Active project set to: 'test5'
+[2025-07-25 20:42:38] Querying project 'test5' with query: '什么是大语言模型'...
+[2025-07-25 20:43:00] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 21:40:36] Application started
+[2025-07-25 21:40:36] Application started successfully
+[2025-07-25 21:41:07] Active project set to: 'test6'
+[2025-07-25 21:45:21] Files selected for the next build.
+[2025-07-25 21:45:28] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 21:46:13] Building project 'test6'...
+[2025-07-25 22:42:43] Build process completed
+[2025-07-25 22:45:55] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 22:46:12] Querying project 'test6' with query: '什么是LLM'...
+[2025-07-25 22:46:31] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 22:47:14] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 11:17:29] Application started
+[2025-07-25 11:17:29] Application started successfully
+[2025-07-25 11:18:55] Application started
+[2025-07-25 11:18:55] Application started successfully
+[2025-07-25 11:33:46] Application started
+[2025-07-25 11:33:46] Application started successfully
+[2025-07-25 12:31:32] Application started
+[2025-07-25 12:31:32] Application started successfully
+[2025-07-25 12:31:39] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 12:34:07] Application started
+[2025-07-25 12:34:07] Application started successfully
+[2025-07-25 12:35:59] Application started
+[2025-07-25 12:35:59] Application started successfully
+[2025-07-25 12:36:05] Active project set to: 'test6'
+[2025-07-25 12:36:33] Application started
+[2025-07-25 12:36:33] Application started successfully
+[2025-07-25 12:36:50] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 12:36:53] Active project set to: 'test4'
+[2025-07-25 12:37:55] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 12:49:18] Application started
+[2025-07-25 12:49:18] Application started successfully
+[2025-07-25 12:49:41] Active project set to: 'Chinese-test'
+[2025-07-25 12:55:25] Application started
+[2025-07-25 12:55:25] Application started successfully
+[2025-07-25 12:55:28] Active project set to: 'Chinese-test'
+[2025-07-25 12:56:02] Settings updated.
+[2025-07-25 12:57:36] Application started
+[2025-07-25 12:57:36] Application started successfully
+[2025-07-25 12:57:38] Active project set to: 'Chinese-test'
+[2025-07-25 12:58:15] Settings updated.
+[2025-07-25 12:58:55] Files selected for the next build.
+[2025-07-25 12:59:00] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 12:59:01] Building project 'Chinese-test'...
+[2025-07-25 12:59:52] Build process completed
+[2025-07-25 13:05:50] Application started
+[2025-07-25 13:05:50] Application started successfully
+[2025-07-25 13:05:54] Active project set to: 'Chinese-test'
+[2025-07-25 13:06:00] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:06:17] Settings updated.
+[2025-07-25 13:06:22] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:06:25] No files selected for build. Use 'Add files' first.
+[2025-07-25 13:06:40] Files selected for the next build.
+[2025-07-25 13:06:44] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:06:46] Building project 'Chinese-test'...
+[2025-07-25 13:23:00] Build process completed
+[2025-07-25 13:24:25] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:24:26] Querying project 'Chinese-test' with query: '大语言模型有什么用途'...
+[2025-07-25 13:25:12] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 13:26:20] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:26:24] Query is empty.
+[2025-07-25 13:26:31] Query configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-07-25 13:26:32] Querying project 'Chinese-test' with query: '大语言模型有什么用途'...
+[2025-07-25 13:28:20] Query completed: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-25 13:36:41] Auto build stopped for project 'Chinese-test'.
+[2025-07-25 13:36:43] Auto build stopped for project 'Chinese-test'.
+[2025-07-25 13:46:26] Application started
+[2025-07-25 13:46:26] Application started successfully
+[2025-07-25 13:48:37] Active project set to: 'test7'
+[2025-07-25 13:49:13] Files selected for the next build.
+[2025-07-25 13:49:17] Build configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-25 13:49:44] Settings updated.
+[2025-07-25 13:49:48] Build configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-25 13:49:49] Building project 'test7'...
+[2025-07-25 14:03:49] Build process completed
+[2025-07-25 14:05:06] Query configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-25 14:05:10] Querying project 'test7' with query: '什么是LLM'...
+[2025-07-25 14:05:25] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 14:05:47] Query configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-25 14:05:49] Query is empty.
+[2025-07-25 14:05:55] Query configuration updated: Mode set to local, model set to qwen3:1.7b.
+[2025-07-25 14:05:55] Querying project 'test7' with query: '什么是LLM'...
+[2025-07-25 14:06:10] Query completed: creating llm client with {'api_key': 'REDACTED,len
+[2025-07-25 14:12:59] Application started
+[2025-07-25 14:12:59] Application started successfully
+[2025-07-25 14:13:03] Active project set to: 'test7'
+[2025-07-25 14:13:32] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:1.7b.
+[2025-07-25 14:13:33] 正在使用查询: 'test7' 查询项目 '什么是LLM
+
+ Answer in Chinese'...
+[2025-07-25 14:13:50] 查询已完成: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-07-25 14:14:08] Querying project 'test7' with query: '什么是LLM
+
+ Answer in English'...
+[2025-07-25 14:14:19] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w

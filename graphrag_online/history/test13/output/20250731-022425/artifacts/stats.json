@@ -1,0 +1,105 @@
+{
+    "total_runtime": 847.9564180374146,
+    "num_documents": 2,
+    "input_load_time": 0,
+    "workflows": {
+        "create_base_text_units": {
+            "overall": 0.292755126953125,
+            "0_orderby": 0.011844635009765625,
+            "1_zip": 0.0,
+            "2_aggregate_override": 0.0,
+            "3_chunk": 0.2116529941558838,
+            "4_select": 0.012368440628051758,
+            "5_unroll": 0.0,
+            "6_rename": 0.01571798324584961,
+            "7_genid": 0.005558490753173828,
+            "8_unzip": 0.010491371154785156,
+            "9_copy": 0.002531290054321289,
+            "10_filter": 0.022589921951293945
+        },
+        "create_base_extracted_entities": {
+            "overall": 487.0778625011444,
+            "0_entity_extract": 487.0322904586792,
+            "1_merge_graphs": 0.019685745239257812,
+            "2_snapshot_rows": 0.010000467300415039
+        },
+        "create_summarized_entities": {
+            "overall": 39.18832278251648,
+            "0_summarize_descriptions": 39.1706907749176,
+            "1_snapshot_rows": 0.011118650436401367
+        },
+        "create_base_entity_graph": {
+            "overall": 0.07453632354736328,
+            "0_cluster_graph": 0.038867950439453125,
+            "1_snapshot_rows": 0.011999845504760742,
+            "2_snapshot_rows": 0.009214401245117188,
+            "3_select": 0.007995843887329102
+        },
+        "create_final_entities": {
+            "overall": 77.13175201416016,
+            "0_unpack_graph": 0.016324758529663086,
+            "1_rename": 0.011098384857177734,
+            "2_select": 0.009513139724731445,
+            "3_dedupe": 0.0096282958984375,
+            "4_rename": 0.009517908096313477,
+            "5_filter": 0.023295164108276367,
+            "6_text_split": 0.011001110076904297,
+            "7_drop": 0.00834798812866211,
+            "8_merge": 0.01551198959350586,
+            "9_text_embed": 76.98324847221375,
+            "10_drop": 0.007001399993896484,
+            "11_filter": 0.021263837814331055
+        },
+        "create_final_nodes": {
+            "overall": 0.2495098114013672,
+            "0_layout_graph": 0.0347445011138916,
+            "1_unpack_graph": 0.017187118530273438,
+            "2_unpack_graph": 0.01624298095703125,
+            "3_drop": 0.014180183410644531,
+            "4_filter": 0.030469417572021484,
+            "5_select": 0.016485214233398438,
+            "6_rename": 0.015187263488769531,
+            "7_join": 0.02546548843383789,
+            "8_convert": 0.05398821830749512,
+            "9_rename": 0.013381719589233398
+        },
+        "create_final_communities": {
+            "overall": 0.05435991287231445,
+            "0_create_final_communities": 0.040357112884521484
+        },
+        "create_final_relationships": {
+            "overall": 0.05045366287231445,
+            "0_create_final_relationships_pre_embedding": 0.017662763595581055,
+            "1_create_final_relationships_post_embedding": 0.018789291381835938
+        },
+        "create_final_text_units": {
+            "overall": 0.0656428337097168,
+            "0_create_final_text_units_pre_embedding": 0.02830338478088379,
+            "1_select": 0.0194852352142334
+        },
+        "create_final_community_reports": {
+            "overall": 238.94420337677002,
+            "0_prepare_community_reports_nodes": 0.022160768508911133,
+            "1_prepare_community_reports_edges": 0.031697988510131836,
+            "2_restore_community_hierarchy": 0.03530740737915039,
+            "3_prepare_community_reports": 0.05395698547363281,
+            "4_create_community_reports": 238.76588320732117,
+            "5_window": 0.02004241943359375
+        },
+        "create_base_documents": {
+            "overall": 0.24310564994812012,
+            "0_unroll": 0.023138046264648438,
+            "1_select": 0.02178502082824707,
+            "2_rename": 0.019991397857666016,
+            "3_join": 0.028228044509887695,
+            "4_aggregate_override": 0.02530074119567871,
+            "5_join": 0.023256540298461914,
+            "6_rename": 0.0194852352142334,
+            "7_convert": 0.06516075134277344
+        },
+        "create_final_documents": {
+            "overall": 0.03515195846557617,
+            "0_rename": 0.019048452377319336
+        }
+    }
+}

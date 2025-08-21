@@ -1,0 +1,48 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#20110;&#21326;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#20110;&#21326;&#26159;&#19968;&#20301;&#20316;&#23478;&#65292;&#20854;&#20070;&#31821;&#22312;&#22823;&#23398;&#26102;&#26399;&#34987;&#35828;&#35805;&#20154;&#24191;&#27867;&#38405;&#35835;&#21644;&#36141;&#20080;&#12290;"</data>
+      <data key="d2">936edb25b07b7c09f9ca8ab95d056779</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">f36abedba204432da441c5a736d3f615</data>
+    </node>
+    <node id="&quot;UNKNOWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Unknown &#26159;&#35828;&#35805;&#20154;&#65292;&#33258;&#31216;&#26159;&#20110;&#21326;&#20070;&#31821;&#30340;&#38271;&#26399;&#35835;&#32773;&#65292;&#36141;&#20080;&#24182;&#38405;&#35835;&#20102;&#20854;&#22823;&#37096;&#20998;&#20316;&#21697;&#12290;"</data>
+      <data key="d2">936edb25b07b7c09f9ca8ab95d056779</data>
+      <data key="d8">"PERSON"</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">132158258a294425bdef7283de55a16d</data>
+    </node>
+    <edge source="&quot;&#20110;&#21326;&quot;" target="&quot;UNKNOWN&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">"Unknown &#26159;&#20110;&#21326;&#20070;&#31821;&#30340;&#38271;&#26399;&#35835;&#32773;&#65292;&#36141;&#20080;&#24182;&#38405;&#35835;&#20102;&#20854;&#22823;&#37096;&#20998;&#20316;&#21697;&#65292;&#26174;&#31034;&#20986;&#23545;&#20854;&#20316;&#21697;&#30340;&#21916;&#29233;&#21644;&#20851;&#27880;&#12290;"</data>
+      <data key="d11">936edb25b07b7c09f9ca8ab95d056779</data>
+      <data key="d12">f49b6aba970c409a9fa50542ff5c7a4b</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+    </edge>
+  </graph>
+</graphml>

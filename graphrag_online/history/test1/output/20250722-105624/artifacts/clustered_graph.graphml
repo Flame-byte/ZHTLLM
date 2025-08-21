@@ -1,0 +1,990 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="LLM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Large Language Model (LLM) is a type of artificial intelligence that can understand and generate human-like language. It is a subfield of Natural Language Processing (NLP) and has revolutionized the field with its growing scale and functionality, driving innovation and progress in areas such as code generation, text summarization, and sentiment analysis.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,50a0fa2f0195dace842f4c779ed877bb,5d2bcc59707806cb7820cae9114b1620,a13e4e0c8fa40e332993a4ba69e74ed5,c8f6956ce445edccd7a2efa05ad1bfe8,d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">0</data>
+      <data key="d7">999e8de006624ce28bc4809e61a14221</data>
+    </node>
+    <node id="CODE GENERATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LLM can generate code fragments, functions, or even entire programs to help developers</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+      <data key="d7">ad7e31e0bd2749a4a165f064929eeefe</data>
+    </node>
+    <node id="TEXT SUMMARIZATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LLM can automatically summarize long documents into concise summaries</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">2</data>
+      <data key="d7">eab7b72e623249b696bd31304fb9bddc</data>
+    </node>
+    <node id="SENTIMENT ANALYSIS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LLM can analyze text to determine the emotional tone or sentiment expressed</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+      <data key="d7">7f357d369b234ac89a804bb1e5a2bb4c</data>
+    </node>
+    <node id="EDUCATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LLM can be used to create personalized learning experiences, provide writing feedback, and generate educational content</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">4</data>
+      <data key="d7">1a0c26b9b9224004a0845e00323917e5</data>
+    </node>
+    <node id="RESEARCH">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Research entity is a field of study that deals with natural language processing. Researchers utilizing Large Language Models (LLMs) can leverage these tools to analyze large amounts of academic papers, identify relevant information, and generate hypotheses.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">5</data>
+      <data key="d7">fb772c9fc2984c9babfb3b9ca6bc9b39</data>
+    </node>
+    <node id="MEDICAL HEALTH">
+      <data key="d0" />
+      <data key="d1">LLM is being explored for its potential use in medical healthcare</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">6</data>
+      <data key="d7">000de1c54b03484d909af5fd284a2f4c</data>
+    </node>
+    <node id="DEEP LEARNING">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Deep learning is a type of machine learning that can be used for tasks such as image recognition and natural language processing</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">ff6b3feb210043fc871fed683c4c0e29</data>
+    </node>
+    <node id="NATURAL LANGUAGE PROCESSING">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">She created a comprehensive summary of the data provided, focusing on Natural Language Processing (NLP). Based on the descriptions, she generated the following summary:
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that deals with the interaction between computers and humans through language. This field of study utilizes deep learning techniques to analyze and understand human language, enabling applications such as text summarization and sentiment analysis.
+
+Note: The provided descriptions were coherent and consistent, so no contradictions needed to be resolved. The summary accurately reflects the core concepts and applications of NLP.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">674b9702097c48b8b7bef675288c4c7d</data>
+    </node>
+    <node id="UNIVERSAL CONVERSATIONAL AI">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Universal conversational AI is a type of deep learning that can be used for tasks such as chatbots and voice assistants</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">413ffd2481b445a094950b9aad2edfc1</data>
+    </node>
+    <node id="MARTIN SMITH">
+      <data key="d0">PERSON</data>
+      <data key="d1">Martin Smith is the chair of the Central Institution</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,db68dfe18d72e311e17eb6c4f36984be</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">03a8ef2b9e1a404eb95e390c7e53b15f</data>
+    </node>
+    <node id="MARKET STRATEGY COMMITTEE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Central Institution committee makes key decisions about interest rates and the growth of Verdantis's money supply</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,db68dfe18d72e311e17eb6c4f36984be</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">38c6b674526c447e8b2f09a7e77ee600</data>
+    </node>
+    <node id="CENTRAL INSTITUTION">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50a0fa2f0195dace842f4c779ed877bb,db68dfe18d72e311e17eb6c4f36984be</data>
+      <data key="d5">3</data>
+      <data key="d6">12</data>
+      <data key="d7">bab39c48448c41b9bbc9161a3441b088</data>
+    </node>
+    <node id="TECHGLOBAL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">TechGlobal is a stock now listed on the Global Exchange which powers 85% of premium smartphones</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">695d0c085a9d45c48bd1245875a4a31f</data>
+    </node>
+    <node id="VISION HOLDINGS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Vision Holdings is a firm that previously owned TechGlobal</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">15ad7264bbdf4a9ab5ef1937e6157412</data>
+    </node>
+    <node id="AURELIA">
+      <data key="d0">GEO</data>
+      <data key="d1">She has compiled a comprehensive summary of the data related to AURELIA, a country currently involved in a hostage crisis.
+
+Aurelia is a country that has found itself in a precarious situation, where it is actively searching for hostages. This development has raised concerns and sparked international attention. However, it appears that the primary objective of Aurelia at this time is to release the existing hostages, indicating a shift towards a more peaceful resolution. Despite the initial search for hostages, the country's current focus seems to be on finding ways to safely release those already being held captive.
+
+Please note that no contradictory information was found in the provided descriptions.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">GEO</data>
+      <data key="d5">5</data>
+      <data key="d6">15</data>
+      <data key="d7">d2969dc3d9114faf8c964f812b645ca8</data>
+    </node>
+    <node id="QUINTARA">
+      <data key="d0">GEO</data>
+      <data key="d1">She compiled the information into a comprehensive summary as follows:
+
+The Quintara, a country, has been involved in a notable diplomatic incident. According to reports, Quintara negotiated a swap of money in exchange for hostages, demonstrating its willingness to engage in high-stakes negotiations to secure the release of its citizens. It is also worth noting that Quintara had previously negotiated a similar deal with Aurelia, further highlighting its reputation as a country that prioritizes the safe return of its nationals.
+
+In both instances, Quintara's actions suggest a pragmatic approach to international relations, where the country is willing to make concessions in exchange for tangible benefits. The details of these negotiations are not specified in the available information, but it is clear that Quintara has a history of engaging in complex diplomacy to achieve its objectives.
+
+Overall, the Quintara can be characterized as a country that values the safety and security of its citizens, and is willing to take calculated risks to ensure their well-being.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">GEO</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">ea425c13b5fa4a788cee44c750372cf4</data>
+    </node>
+    <node id="FIRUZABAD">
+      <data key="d0">GEO</data>
+      <data key="d1">Here is a comprehensive summary of the data provided:
+
+The entity referred to as FIRUZABAD is a city located in the country of Firuzi. It is also notable as the capital city of Aurelia, where the Aurelians were being held. Additionally, Firuzabad is described as a city within the country of Firuzi, indicating that it may serve as an administrative or geographical hub for the nation.
+
+Note: The contradictory descriptions have been resolved by acknowledging that Firuzabad is both a city in Firuzi and the capital of Aurelia, with its location being a key point of intersection between these two entities.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">5</data>
+      <data key="d6">17</data>
+      <data key="d7">ca1440d9669041448ea6f6baffcc01b0</data>
+    </node>
+    <node id="TIRUZIA">
+      <data key="d0">GEO</data>
+      <data key="d1">Here is a comprehensive summary of the data provided:
+
+The entity in question is TIRUZIA, which is referred to as the capital city of Firuzabad. According to available information, Tiruzia is also where the Aurelians were being held, suggesting that it holds significant historical or cultural importance related to the Aurelian presence.
+
+It appears that there may be some redundancy in the descriptions provided, with both mentioning Tiruzia as the capital of Firuzabad. However, upon closer examination, it becomes clear that these statements are essentially synonymous, reinforcing the notion that Tiruzia is indeed the capital city of Firuzabad.
+
+Therefore, a single, coherent summary can be provided: Tiruzia is the capital city of Firuzabad, and it holds historical significance as the location where the Aurelians were being held.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">GEO</data>
+      <data key="d5">2</data>
+      <data key="d6">18</data>
+      <data key="d7">8d7c6b97a0f740d6b03014c2aa9b3711</data>
+    </node>
+    <node id="KROHAARA">
+      <data key="d0">GEO</data>
+      <data key="d1">The comprehensive summary of the data provided is as follows:
+
+Krohaara is a capital city located in Quintara. It serves as the capital of Quintara and is also the site where the exchange took place, marking an important milestone in the region's history.
+
+Note: The descriptions have been combined to provide a single, coherent summary.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">GEO</data>
+      <data key="d5">2</data>
+      <data key="d6">19</data>
+      <data key="d7">bb2812bc9d03447c8f09f840e2c8d19d</data>
+    </node>
+    <node id="CASHION">
+      <data key="d0">GEO</data>
+      <data key="d1">Capital city in Aurelia</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d5">0</data>
+      <data key="d6">20</data>
+      <data key="d7">290c4a0e08584cffb4168ea3df6cf2f1</data>
+    </node>
+    <node id="ALHAMIA PRISON">
+      <data key="d0">GEO</data>
+      <data key="d1">The ALHAMIA PRISON is a prison located in Tiruzia. It has been the site of imprisonment for notable individuals, including Samuel Namara.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">GEO</data>
+      <data key="d5">2</data>
+      <data key="d6">21</data>
+      <data key="d7">b5e673cceb6c4f1cbe3301abd51bc5c5</data>
+    </node>
+    <node id="SAMUEL NAMARA">
+      <data key="d0">PERSON</data>
+      <data key="d1">Here is a comprehensive summary of the data provided:
+
+Samuel Namara is an Aurelian businessman and journalist. He has spent time in Tiruzia's Alhamia Prison, where he was presumably held as a prisoner or detainee. The exact nature of his imprisonment is not specified, but it is known that he was held in this particular prison.
+
+Note: I have taken the liberty of rephrasing some of the descriptions to make them more concise and coherent, while still conveying the essential information. Let me know if you'd like me to revise anything!</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">PERSON</data>
+      <data key="d5">5</data>
+      <data key="d6">22</data>
+      <data key="d7">9c19fe20a21143c48c51b16a061ec1a0</data>
+    </node>
+    <node id="DURKE BATAGLANI">
+      <data key="d0">PERSON</data>
+      <data key="d1">The comprehensive summary of Durke Bataglani is as follows:
+
+Durke Bataglani is a prominent figure in the field of environmentalism and journalism. He is an Aurelian journalist who has been involved in several high-profile cases, including being held hostage by unknown individuals. Despite this challenging experience, he continues to be a vocal advocate for environmental causes, highlighting the importance of protecting the planet's natural resources. Through his work as a journalist, Durke Bataglani sheds light on critical issues affecting Aurelia and beyond, inspiring others to take action in preserving our world.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d8">PERSON</data>
+      <data key="d5">4</data>
+      <data key="d6">23</data>
+      <data key="d7">ff182a120e8a4ca0a1a591f58a57a199</data>
+    </node>
+    <node id="MEGGIE TAZBAH">
+      <data key="d0">PERSON</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Meggie Tazbah is a Bratinas national and environmentalist. She has been involved in various activities, including being held hostage for her national and environmental pursuits.
+
+I've concatenated all the descriptions into a single summary to provide a clear and coherent overview of Meggie Tazbah's role as a Bratinas national and environmentalist.</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97,50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">5</data>
+      <data key="d6">24</data>
+      <data key="d7">8693b64617f04830a96077e01a392f1b</data>
+    </node>
+    <node id="FEDERAL RESERVE OF VERDANTIS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Central Institution is the Federal Reserve of Verdantis, which is setting interest rates on Monday and Thursday</data>
+      <data key="d2">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d5">0</data>
+      <data key="d6">25</data>
+      <data key="d7">c97d2ffa8acd4a6288c21e8e3675d3bb</data>
+    </node>
+    <node id="LANGUAGE MODEL (LLM)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A type of AI model trained on large amounts of text and code data, enabling it to learn complex patterns and relationships in language&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+      <data key="d7">ff86368a904f4ae090c2ad49204b2983</data>
+    </node>
+    <node id="STANFORD NATURAL LANGUAGE PROCESSING GROUP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A research group at Stanford University that has made significant contributions to the development of LLMs&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">63b1180e6274433e865ee78a036523f8</data>
+    </node>
+    <node id="BERT (BIDIRECTIONAL ENCODER REPRESENTATIONS FROM TRANSFORMERS)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">BERT is a type of pre-trained language model developed by the Stanford Natural Language Processing Group&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">28</data>
+      <data key="d7">60474e3a55b74f5f8b9d19decdf8aef9</data>
+    </node>
+    <node id="LLM (LARGE LANGUAGE MODEL)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A type of AI model that has been trained on massive amounts of text and code data, enabling it to generate human-like text and answer complex questions&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">1</data>
+      <data key="d6">29</data>
+      <data key="d7">7ba5261bf8004f40853d27e8b296a407</data>
+    </node>
+    <node id="STANFORD UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A private research university located in Stanford, California, known for its academic excellence and innovative research in various fields, including natural language processing&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">eb198146df5d439b9fbc445f6db15f1c</data>
+    </node>
+    <node id="TRANSFORMER NETWORK">
+      <data key="d0" />
+      <data key="d1">The Transformer network is a deep learning architecture that has proven to be particularly effective in handling sequential data such as text&lt;/entity&gt;</data>
+      <data key="d2">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">79299d3bee1a4a3fa4a8625aa211bf2c</data>
+    </node>
+    <node id="BERT">
+      <data key="d0" />
+      <data key="d1">The comprehensive summary of the provided data is as follows:
+
+BERT, an artificial intelligence (AI) model developed by Google, utilizes the transformer architecture to perform natural language processing tasks.</data>
+      <data key="d2">a13e4e0c8fa40e332993a4ba69e74ed5,d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">32</data>
+      <data key="d7">e11dfcf92fab4fd382b23beec26f50b6</data>
+    </node>
+    <node id="MICRO-TUNING">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A process used to further optimize LLM for specific natural language processing tasks</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">33</data>
+      <data key="d7">6e3c1b4a52b14d5ca0bb7b7f66fb929e</data>
+    </node>
+    <node id="DATA SET">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A collection of data used to train or test a machine learning model</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">34</data>
+      <data key="d7">afd09590fc9f4607b6282709597cde98</data>
+    </node>
+    <node id="PARAMETERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A measure of the size and complexity of a machine learning model</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">35</data>
+      <data key="d7">ce9a628379324a8783e64844f14b2266</data>
+    </node>
+    <node id="COMPUTING POWER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A measure of the ability of a computer system to perform calculations and operations</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">67d4cfc227cb4b478f3617020daefb90</data>
+    </node>
+    <node id="DATA SCALE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A measure of the size and amount of data used to train or test a machine learning model</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">37</data>
+      <data key="d7">6f95fe33d4034028ab9e08392b39c879</data>
+    </node>
+    <node id="WORLD KNOWLEDGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A measure of the amount of knowledge and information that a machine learning model has been trained on</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">38</data>
+      <data key="d7">207f0f25a5184e229ec490dc66de3e1b</data>
+    </node>
+    <node id="TRAINING DATA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A collection of data used to train a machine learning model</data>
+      <data key="d2">5d2bcc59707806cb7820cae9114b1620</data>
+      <data key="d5">0</data>
+      <data key="d6">39</data>
+      <data key="d7">b900c56ab279455facdb1fc3da012cf4</data>
+    </node>
+    <node id="NLP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Natural Language Processing, a field that deals with human communication</data>
+      <data key="d2">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">40</data>
+      <data key="d7">1a316f903c9041c7a24e51f3f922ee7a</data>
+    </node>
+    <node id="ELLIAB">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">An early language model developed in 1966, capable of recognizing keywords from input</data>
+      <data key="d2">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">41</data>
+      <data key="d7">0ccd59d0cd1a4b6093df9ac07e25a6e0</data>
+    </node>
+    <node id="KEYWORD">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A term used to describe what ELLIAB can recognize from input</data>
+      <data key="d2">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">35c18a41f1734f9e93ae5e7f4041d928</data>
+    </node>
+    <node id="GPT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">GPT (Generative Pre-trained Transformer) is a type of neural network model</data>
+      <data key="d2">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">43</data>
+      <data key="d7">ade037e757ae4c46b72c0aa5e7a418a7</data>
+    </node>
+    <node id="OPENAI">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">OpenAI is an artificial general intelligence research organization that developed the GPT series models</data>
+      <data key="d2">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">1a1bed5b8285436b9a1f875c8eebb0c8</data>
+    </node>
+    <node id="GPT2">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">She has generated a comprehensive summary of the data provided, focusing on the entity "GPT2".
+
+GPT2 is a variant of the GPT (Generative Pre-trained Transformer 2) model, which has been specifically designed to improve its performance on various Natural Language Processing (NLP) tasks.</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb,a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">1b4a0628600b4118bc148f3ed9458b5f</data>
+    </node>
+    <node id="GPT3">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The comprehensive summary of the data provided is as follows:
+
+The entity "GPT3" refers to a large language model developed by OpenAI. It boasts an impressive number of parameters, specifically 17,500,000 and 17.5 million, which highlights its advanced capabilities in text generation, understanding, and reasoning. Additionally, GPT3 can be considered as a more advanced version of the GPT model, indicating that it builds upon the foundational work of its predecessor.
+
+The entity "GPT3" is a significant advancement in language models, offering enhanced features and performance compared to its predecessors. Its capabilities make it an attractive option for various applications, including but not limited to text generation and understanding, reasoning, and more.</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb,a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">46</data>
+      <data key="d7">253f42d670514698bc36a1bb87d10f0d</data>
+    </node>
+    <node id="TRANSFORMER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Transformers are a type of neural network architecture</data>
+      <data key="d2">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d8">ORGANIZATION</data>
+      <data key="d5">0</data>
+      <data key="d6">47</data>
+      <data key="d7">e17c7e48c4584f4881b1495d86a34477</data>
+    </node>
+    <node id="GOOGLE LAMBDA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Google Lambda is an open-source framework for building serverless applications using Python, offering flexible scalability and cost-effectiveness</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">48</data>
+      <data key="d7">65445c37a96c4ce29a25527d256ce6a5</data>
+    </node>
+    <node id="PME META">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Pme Meta is a deep learning model developed by Pme, showcasing advanced capabilities in natural language processing and machine learning</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">49</data>
+      <data key="d7">33c9ba80c4854f96aa8afaab47af13b5</data>
+    </node>
+    <node id="MICHAEL SCHOENMAKERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Michael Sch&#246;nmaker is an engineer at OpenAI who contributed to the development of GPT3</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">7fed294d11ac4a53b3a9fea9a71322f1</data>
+    </node>
+    <node id="PME">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Pme Meta is a deep learning model developer</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d5">0</data>
+      <data key="d6">51</data>
+      <data key="d7">f05992c95017458a8f6d57e651e4049a</data>
+    </node>
+    <node id="GOOGLE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Google is a multinational technology company that developed Google Lambda</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d5">0</data>
+      <data key="d6">52</data>
+      <data key="d7">c35f632cda644f1aa15af649e91f6c85</data>
+    </node>
+    <node id="YANNIC MEHDI">
+      <data key="d0">PERSON</data>
+      <data key="d1">Yannic Meier is an engineer at Pme Meta who contributed to the development of their deep learning models</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">ef0a6a1030cc40e8b5081c5b18062222</data>
+    </node>
+    <node id="TIRANU">
+      <data key="d0">GEO</data>
+      <data key="d1">Tiranu is a city in Romania, where OpenAI has its headquarters</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2adf1630925b40f4805a02c9b3cd10bb</data>
+    </node>
+    <node id="VERDANTIS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Verdantis is an organization that serves as the central institution for monetary policy decisions</data>
+      <data key="d2">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d5">2</data>
+      <data key="d6">55</data>
+      <data key="d7">c772e3afec05411db829ee7b74026db9</data>
+    </node>
+    <node id="DATA MANAGEMENT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Data management is becoming increasingly important as training technology advances</data>
+      <data key="d2">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">dfba946a91124022be314cc80c8a1bdb</data>
+    </node>
+    <node id="TRAINING TECHNOLOGY">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">54ac10a30ada4eab9e41e2e07e0c4a81</data>
+    </node>
+    <node id="TG">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">TG stands for TechGlobal, a semiconductor corporation</data>
+      <data key="d2">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d5">0</data>
+      <data key="d6">58</data>
+      <data key="d7">dea26572fd1d41ac9a7fb05106346984</data>
+    </node>
+    <edge source="LLM" target="TRANSFORMER NETWORK">
+      <data key="d9">4.0</data>
+      <data key="d10">The Transformer network is a foundation for the development of LLMs, enabling them to learn complex patterns and relationships in language&lt;/entity&gt;The Transformer network has been used as a foundation for the development of LLMs, enabling them to learn complex patterns and relationships in languageThe Transformer network has been used as a foundation for the development of LLMs, enabling them to learn complex patterns and relationships in language&lt;/entity&gt;</data>
+      <data key="d11">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d12">795ee3c8e50c42e6bc5efc06c1d15407</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="LLM" target="NLP">
+      <data key="d9">9.0</data>
+      <data key="d10">LLMs are used to improve NLP tasks such as language translation and text generation</data>
+      <data key="d11">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d12">e337c37eefc64b26bc7a673f19761286</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="LLM" target="GPT2">
+      <data key="d9">1.0</data>
+      <data key="d10">The emergence of GPT2 marked the beginning of the LLM revolution, transforming the field with its effectiveness in fine-tuning large language models</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">ee261c74cfda44a3b7b53c8a71ea8c0f</data>
+      <data key="d13">2</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="CODE GENERATION" target="EDUCATION">
+      <data key="d9">16.0</data>
+      <data key="d10">LLM can be used to generate educational content and provide feedback on student writing</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">1c16285303c54c2e9a62160ecb6f5e77</data>
+      <data key="d13">3</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="CODE GENERATION" target="DEEP LEARNING">
+      <data key="d9">9.0</data>
+      <data key="d10">Deep learning can be used to generate code fragments, functions, or even entire programs</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">3aa333d9f9884c4a96d8c09e2b3a2bb5</data>
+      <data key="d13">4</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TEXT SUMMARIZATION" target="RESEARCH">
+      <data key="d9">14.0</data>
+      <data key="d10">LLM can help researchers summarize long documents for analysis</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">fde67477268140eaaf4238f340d1a469</data>
+      <data key="d13">5</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TEXT SUMMARIZATION" target="NATURAL LANGUAGE PROCESSING">
+      <data key="d9">8.0</data>
+      <data key="d10">Natural language processing can be used to automatically summarize long documents into concise summaries</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">82b720b7f0f84d0eaf20fd9251d05c14</data>
+      <data key="d13">6</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="MEDICAL HEALTH">
+      <data key="d9">12.0</data>
+      <data key="d10">LLM can be used to analyze patient feedback and sentiment in the medical field</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">4aaf138cb0674a2cb38039ed20cbac54</data>
+      <data key="d13">7</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="EDUCATION" target="RESEARCH">
+      <data key="d9">18.0</data>
+      <data key="d10">LLM can help researchers create personalized learning experiences for students</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">da0bc14a3b8545d0a1bf2cd4dfc1b1f5</data>
+      <data key="d13">8</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="EDUCATION" target="UNIVERSAL CONVERSATIONAL AI">
+      <data key="d9">9.0</data>
+      <data key="d10">Universal conversational AI can be used to create personalized learning experiences for students</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">f5ac82db775f42b68eba64862122c392</data>
+      <data key="d13">9</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="RESEARCH" target="MEDICAL HEALTH">
+      <data key="d9">16.0</data>
+      <data key="d10">LLM can be used to analyze large amounts of medical data and identify trends</data>
+      <data key="d11">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d12">5c75f6eb715b492992db62085c32c156</data>
+      <data key="d13">10</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="RESEARCH" target="NLP">
+      <data key="d9">7.0</data>
+      <data key="d10">Research in NLP is crucial for advancing the field</data>
+      <data key="d11">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d12">00cf1d21918f45b89b269c38fb000f60</data>
+      <data key="d13">11</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="MARTIN SMITH" target="CENTRAL INSTITUTION">
+      <data key="d9">27.0</data>
+      <data key="d10">Martin Smith is the Chair of the Central Institution and will answer questions at a press conference</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97,db68dfe18d72e311e17eb6c4f36984be</data>
+      <data key="d12">6bce2be6e2054bc28b245ffab194b651</data>
+      <data key="d13">12</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="MARKET STRATEGY COMMITTEE" target="CENTRAL INSTITUTION">
+      <data key="d9">16.0</data>
+      <data key="d10">The Central Institution committee makes key decisions about interest rates and the growth of Verdantis's money supply</data>
+      <data key="d11">db68dfe18d72e311e17eb6c4f36984be</data>
+      <data key="d12">99a48a116e074b89988424741db0b778</data>
+      <data key="d13">13</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="CENTRAL INSTITUTION" target="VERDANTIS">
+      <data key="d9">8.0</data>
+      <data key="d10">Verdantis serves as the central institution for monetary policy decisions</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">04e8c26099464eb096fdd68367054b91</data>
+      <data key="d13">14</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TECHGLOBAL" target="VISION HOLDINGS">
+      <data key="d9">15.0</data>
+      <data key="d10">Vision Holdings formerly owned TechGlobal from 2014 until present</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">fb85e07959a04cceabb41d7a2c3f53fa</data>
+      <data key="d13">15</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="AURELIA" target="FIRUZABAD">
+      <data key="d9">2.0</data>
+      <data key="d10">Firuzabad negotiated a hostage exchange with Aurelia</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">d451519734ae4c3a996dd551bfd6bff8</data>
+      <data key="d13">16</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="AURELIA" target="QUINTARA">
+      <data key="d9">2.0</data>
+      <data key="d10">Quintara brokered the hostage exchange between Firuzabad and Aurelia</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">c828b1f9bdab476a8422d5291a3a211d</data>
+      <data key="d13">17</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="AURELIA" target="SAMUEL NAMARA">
+      <data key="d9">8.0</data>
+      <data key="d10">Samuel Namara is an Aurelian and was held in Tiruzia's Alhamia Prison</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">63eee3b3e11e4b64ab7169ebfeeea5d8</data>
+      <data key="d13">18</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="AURELIA" target="DURKE BATAGLANI">
+      <data key="d9">8.0</data>
+      <data key="d10">Durke Bataglani is an Aurelian journalist and was held in Tiruzia's Alhamia Prison</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">7c9f3fb19dcf47b489da16fb88d88bfa</data>
+      <data key="d13">19</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="AURELIA" target="MEGGIE TAZBAH">
+      <data key="d9">2.0</data>
+      <data key="d10">Meggie Tazbah is a Bratinas national and environmentalist, and was also held in Firuzabad</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">d6246f78bd87457aa04b7d125292db3d</data>
+      <data key="d13">20</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="QUINTARA" target="FIRUZABAD">
+      <data key="d9">2.0</data>
+      <data key="d10">Quintara brokered the hostage exchange between Firuzabad and Aurelia</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">52a5bc75b5d74b3aaa167008022195f2</data>
+      <data key="d13">21</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="FIRUZABAD" target="SAMUEL NAMARA">
+      <data key="d9">2.0</data>
+      <data key="d10">Samuel Namara was a hostage in Firuzabad</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">b8d8a3baf49e4375a39faebe90cc1605</data>
+      <data key="d13">22</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="FIRUZABAD" target="MEGGIE TAZBAH">
+      <data key="d9">4.0</data>
+      <data key="d10">Meggie Tazbah was a hostage in Firuzabad</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">a45740a0aa05403cba9552142ddec6f9</data>
+      <data key="d13">23</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="FIRUZABAD" target="DURKE BATAGLANI">
+      <data key="d9">2.0</data>
+      <data key="d10">Durke Bataglani was a hostage in Firuzabad</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">5bd5cf0c42bf44e8bd596ffbe3cd3bbe</data>
+      <data key="d13">24</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TIRUZIA" target="SAMUEL NAMARA">
+      <data key="d9">8.0</data>
+      <data key="d10">Samuel Namara was held in Tiruzia's Alhamia Prison</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">9d11d5cae81d4fb58e91a77568d6f0a0</data>
+      <data key="d13">25</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TIRUZIA" target="DURKE BATAGLANI">
+      <data key="d9">2.0</data>
+      <data key="d10">Durke Bataglani was also held in Tiruzia's Alhamia Prison</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">39382c7ce5894b8e8cd7fdf037c65b3a</data>
+      <data key="d13">26</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="KROHAARA" target="SAMUEL NAMARA">
+      <data key="d9">2.0</data>
+      <data key="d10">Samuel Namara is on his way to Krohaara, the capital of Quintara</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">634a418b6373499482d58d55aa320b75</data>
+      <data key="d13">27</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="KROHAARA" target="MEGGIE TAZBAH">
+      <data key="d9">2.0</data>
+      <data key="d10">Meggie Tazbah is on her way to Krohaara, the capital of Quintara</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">53862ca5538845e980a637dd18262954</data>
+      <data key="d13">28</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="ALHAMIA PRISON" target="SAMUEL NAMARA">
+      <data key="d9">16.0</data>
+      <data key="d10">Samuel Namara was a prisoner at Alhamia prison</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">707a73ae19c54771a6e5bb1f1a44a835</data>
+      <data key="d13">29</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="ALHAMIA PRISON" target="MEGGIE TAZBAH">
+      <data key="d9">2.0</data>
+      <data key="d10">Meggie Tazbah was exchanged in the same hostage release as Durke Bataglani</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">8c6ab467070b4537b0219eceaff7e8af</data>
+      <data key="d13">30</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="DURKE BATAGLANI" target="MEGGIE TAZBAH">
+      <data key="d9">4.0</data>
+      <data key="d10">Meggie Tazbah and Durke Bataglani were exchanged in the same hostage release</data>
+      <data key="d11">0117db62b93eb1decfe4e00521bfab97</data>
+      <data key="d12">63a4ab9e86f34b86a5153cf7bfdf112a</data>
+      <data key="d13">31</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="STANFORD NATURAL LANGUAGE PROCESSING GROUP" target="BERT">
+      <data key="d9">6.0</data>
+      <data key="d10">BERT was developed by the Stanford Natural Language Processing Group, a leading research group in natural language processing&lt;/entity&gt;The Stanford Natural Language Processing Group developed BERT, a type of pre-trained language model that has significantly contributed to the field of natural language processing&lt;/entity&gt;</data>
+      <data key="d11">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d12">f9540066ace04965bc029bcdca4a2bed</data>
+      <data key="d13">32</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="LLM (LARGE LANGUAGE MODEL)" target="STANFORD UNIVERSITY">
+      <data key="d9">3.0</data>
+      <data key="d10">LLMs have been trained on massive amounts of text and code data by researchers at Stanford University, enabling them to generate human-like text and answer complex questions&lt;/entity&gt;</data>
+      <data key="d11">d87ddf86b1fb2af4f2049e3732b4b0be</data>
+      <data key="d12">b91092a2bfc6402daa51010eaff99de7</data>
+      <data key="d13">33</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="BERT" target="GPT">
+      <data key="d9">9.0</data>
+      <data key="d10">BERT and GPT are two AI models developed by OpenAI that use transformer architecture for NLP tasks</data>
+      <data key="d11">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d12">a8dc4040cb874d51be86db2fc3d4525b</data>
+      <data key="d13">34</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="NLP" target="ELLIAB">
+      <data key="d9">8.0</data>
+      <data key="d10">Elliab is considered one of the earliest NLP systems, using rule-based and statistical methods</data>
+      <data key="d11">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d12">3f3cd820212945e68aa64819ee94b738</data>
+      <data key="d13">35</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="ELLIAB" target="KEYWORD">
+      <data key="d9">5.0</data>
+      <data key="d10">ELLIB recognizes keywords from input</data>
+      <data key="d11">c8f6956ce445edccd7a2efa05ad1bfe8</data>
+      <data key="d12">31a7ad7071fc460489cedaffb03dcbbc</data>
+      <data key="d13">36</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT" target="OPENAI">
+      <data key="d9">15.0</data>
+      <data key="d10">OpenAI developed the GPT series models, including GPT2 and GPT3</data>
+      <data key="d11">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d12">9b8b0ce9e11144f282bcf31966d9fdea</data>
+      <data key="d13">37</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT" target="GPT2">
+      <data key="d9">14.0</data>
+      <data key="d10">GPT2 is a variant of the GPT model with improved performance on various NLP tasks</data>
+      <data key="d11">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d12">16fee53fb0a6414790fa3a40b5bb304c</data>
+      <data key="d13">38</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT" target="GPT3">
+      <data key="d9">30.0</data>
+      <data key="d10">GPT3 is a more advanced version of the GPT model, with 17.5 million parameters</data>
+      <data key="d11">a13e4e0c8fa40e332993a4ba69e74ed5</data>
+      <data key="d12">19d02c50b19145d286a9d5fb6ceed2ac</data>
+      <data key="d13">39</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT3" target="GOOGLE LAMBDA">
+      <data key="d9">9.0</data>
+      <data key="d10">GPT3 demonstrates improved performance over Google Lambda due to its significantly larger parameter count</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">0151d891ca0940ff877253d08ce564a1</data>
+      <data key="d13">40</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT3" target="PME META">
+      <data key="d9">8.0</data>
+      <data key="d10">Pme Meta's deep learning model builds upon GPT3's capabilities, showcasing enhanced natural language processing and machine learning abilities</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">e19372c6525643648530900f8f6c1b2b</data>
+      <data key="d13">41</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GPT3" target="MICHAEL SCHOENMAKERS">
+      <data key="d9">8.0</data>
+      <data key="d10">Michael Sch&#246;nmaker contributed to the development of GPT3 at OpenAI</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">51644ed736964a68ba67ff01fd95962d</data>
+      <data key="d13">42</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="GOOGLE LAMBDA" target="PME META">
+      <data key="d9">9.0</data>
+      <data key="d10">Google Lambda and Pme Meta are two different technologies developed by separate organizations</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">1a889534ba0140389e55caa02b0ba626</data>
+      <data key="d13">43</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="PME META" target="YANNIC MEHDI">
+      <data key="d9">8.0</data>
+      <data key="d10">Yannic Meier worked on the development of Pme Meta's deep learning models</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">bbc56db1db4348f18134c79e91e121df</data>
+      <data key="d13">44</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="TIRANU" target="VERDANTIS">
+      <data key="d9">2.0</data>
+      <data key="d10">Tiranu is the location of Verdantis' headquarters, Tiruzia</data>
+      <data key="d11">50a0fa2f0195dace842f4c779ed877bb</data>
+      <data key="d12">c7a09464c71a4d799ce137b3106c8161</data>
+      <data key="d13">45</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="DATA MANAGEMENT" target="TRAINING TECHNOLOGY">
+      <data key="d9">8.0</data>
+      <data key="d10">Training technology is improving data management capabilities</data>
+      <data key="d11">50f1452c2ead1b9686036ec9e9bf7634</data>
+      <data key="d12">beb79848aa464e46a9c1095f31a8f4a5</data>
+      <data key="d13">46</data>
+      <data key="d14">0</data>
+    </edge>
+  </graph>
+</graphml>

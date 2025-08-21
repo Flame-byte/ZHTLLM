@@ -1,0 +1,10 @@
+{
+    "local": [],
+    "cloud": [
+        {
+            "name": "deepseek-chat",
+            "api_base": "https://api.agicto.cn/v1",
+            "api_key": "sk-updTLk3DtUk5N2UrIIzD6yGgnE1WzmtXDlJGeTpaq6lucrSo"
+        }
+    ]
+}

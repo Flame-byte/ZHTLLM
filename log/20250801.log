@@ -1,0 +1,18 @@
+[2025-08-01 16:14:08] Application started
+[2025-08-01 16:14:08] Application started successfully
+[2025-08-01 16:20:38] Files selected for the next build.
+[2025-08-01 16:20:40] Active project set to: 'Chinese-test'
+[2025-08-01 16:27:34] Files selected for the next build.
+[2025-08-01 16:27:43] Build configuration updated: Mode set to local, model set to qwen3:4b.
+[2025-08-01 16:27:44] Building project 'Chinese-test'...
+[2025-08-01 16:50:47] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-08-01 16:50:58] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-08-01 16:51:26] Settings updated.
+[2025-08-01 17:10:26] Build process completed
+[2025-08-01 17:42:22] Build configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-08-01 22:15:57] Application started
+[2025-08-01 22:15:57] Application started successfully
+[2025-08-01 22:16:29] Active project set to: 'Chinese-test'
+[2025-08-02 02:00:50] Active project set to: 'test14'
+[2025-08-02 02:01:05] Files selected for the next build.
+[2025-08-02 02:03:11] Building project 'test14'...

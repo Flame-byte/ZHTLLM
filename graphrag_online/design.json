@@ -1,0 +1,129 @@
+{
+  "page_title": "RAG Project Interface",
+  "layout": "A three-column layout with a left sidebar for navigation, a central content area for main tasks, and a right-aligned settings button.",
+  "components": [
+    {
+      "type": "button",
+      "text": "Create a new project",
+      "position": "top-left",
+      "function": "Initiate the creation of a new project.",
+      "hierarchy": "sidebar"
+    },
+    {
+      "type": "button",
+      "text": "Search for projects",
+      "position": "top-left",
+      "function": "Search for existing projects.",
+      "hierarchy": "sidebar"
+    },
+    {
+      "type": "button",
+      "text": "Log View",
+      "position": "left-sidebar",
+      "function": "Display logs.",
+      "hierarchy": "sidebar"
+    },
+    {
+      "type": "button",
+      "text": "Meeting mode",
+      "position": "left-sidebar",
+      "function": "Switch to a mode optimized for meetings.",
+      "hierarchy": "sidebar"
+    },
+    {
+      "type": "list",
+      "text": "History list",
+      "position": "left-sidebar",
+      "function": "Display a list of historical activities or projects.",
+      "hierarchy": "sidebar"
+    },
+    {
+      "type": "text_input_group",
+      "text": "Build the RAG",
+      "position": "center",
+      "function": "Container for building the RAG, including file addition and configuration.",
+      "hierarchy": "main_content"
+    },
+    {
+      "type": "button",
+      "text": "add files",
+      "position": "center",
+      "function": "Open a menu to add different types of files.",
+      "hierarchy": "Build the RAG"
+    },
+    {
+      "type": "button",
+      "text": "configure",
+      "position": "center",
+      "function": "Open a menu to configure the RAG build settings.",
+      "hierarchy": "Build the RAG"
+    },
+    {
+      "type": "text_input_group",
+      "text": "Query",
+      "position": "center",
+      "function": "Container for querying the RAG.",
+      "hierarchy": "main_content"
+    },
+    {
+      "type": "button",
+      "text": "configure",
+      "position": "center",
+      "function": "Open a menu to configure query settings.",
+      "hierarchy": "Query"
+    },
+    {
+      "type": "button",
+      "text": "Settings",
+      "position": "top-right",
+      "function": "Open application settings.",
+      "hierarchy": "header"
+    }
+  ],
+  "theme": "light",
+  "interactivity": "interactive",
+  "text_content": {
+    "build_rag_placeholder": "Project Description:",
+    "query_placeholder": "Ask any questions:"
+  },
+  "menu_structure": {
+    "add_files": {
+      "text files": {
+        "function": "upload file links"
+      },
+      "audio files": {
+        "function": "upload file links"
+      },
+      "Character Registration": {
+        "speaker:xxx": {
+          "function": "enter a name"
+        },
+        "Audio Sampling": {
+          "function": "upload file links"
+        }
+      }
+    },
+    "configure": {
+      "Reasoning: local or cloud": {
+        "function": "switch operation mode"
+      },
+      "model:": {
+        "llama3.2:1b": {},
+        "llama3.2:b": {},
+        "Qwen3:4b": {},
+        "custom": {}
+      }
+    },
+    "Settings": {
+      "inference-mode: ": {},
+      "cloud-api-base: ": {},
+      "cloud-api-key:": {},
+      "cloud-model:": {},
+      "local-api-base:": {},
+      "local-model:": {},
+      "embedding-model:": {},
+      "embedding-api-base:": {},
+      "local-model:": {}
+    }
+  }
+}

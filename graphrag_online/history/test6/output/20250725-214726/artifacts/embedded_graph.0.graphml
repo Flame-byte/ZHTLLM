@@ -1,0 +1,938 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="SPEAKER-1">
+      <data key="d0">PERSON</data>
+      <data key="d1">speaker-1 is a person who participated in the event and presented a speech on large language models&gt;</data>
+      <data key="d2">abdeaa49e5aa4538c713782ffcc4dd29</data>
+    </node>
+    <node id="SPEAKER-2">
+      <data key="d0">PERSON</data>
+      <data key="d1">Speaker-2 is a person who provided information about the principles behind large language models and participated in the event, presenting a speech on the subject. They played an active role in discussing the key aspects of large language models, offering insights into their underlying principles and contributing to the overall understanding of the topic during the event.</data>
+      <data key="d2">8ea04a840980c6b9b6e631e3e829d405,abdeaa49e5aa4538c713782ffcc4dd29</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="SPEAKER-3">
+      <data key="d0">PERSON</data>
+      <data key="d1">Speaker-3 is a person who provided information about the development history of large language models and participated in the event, presenting a speech on the same topic. Speaker-3's contributions encompass both informative insights into the historical evolution of large language models and a direct presentation at an event focused on the subject.</data>
+      <data key="d2">66331e41cc97cd2c0c2f50ade336bb59,abdeaa49e5aa4538c713782ffcc4dd29</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="2025/07/25">
+      <data key="d0">EVENT</data>
+      <data key="d1">The event took place on July 25, 2025, and included three speakers who discussed large language models&gt;</data>
+      <data key="d2">abdeaa49e5aa4538c713782ffcc4dd29</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="&#22823;&#22411;&#35821;&#35328;&#27169;&#22411;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Large language models are a type of artificial intelligence organization that specializes in understanding and generating human language. They are trained on large-scale data and have a vast number of parameters, making them highly effective in tasks such as answering complex questions, summarizing documents, creating creative content, and generating computer code&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </node>
+    <node id="TRANSFORMER&#32593;&#32476;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Transformer networks are a type of deep learning architecture that has proven particularly effective in processing sequential data such as text. They are a key component of large language models&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Deep learning architectures are a type of artificial intelligence organization that uses layered neural networks to process and interpret complex data. Transformer networks are a notable example of this type of architecture&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#20154;&#24037;&#26234;&#33021;&#27169;&#22411;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Artificial intelligence models are computational systems designed to perform tasks such as understanding and generating human language. Large language models (LLMs) are a specific type of AI model that specializes in processing text and code&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#20154;&#31867;&#35821;&#35328;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Human language refers to the system of communication used by humans, including spoken and written words. Large language models are specialized AI models designed to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#25991;&#26412;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Text is a sequence of written or spoken words that convey meaning. Transformer networks have proven particularly effective in processing text as sequential data&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#20195;&#30721;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Code is a set of instructions written in a programming language that tells a computer what to do. Large language models are capable of generating code as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#22797;&#26434;&#38382;&#39064;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Complex problems are issues that require advanced analysis and solution strategies. Large language models are designed to handle such problems by understanding and generating human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#25991;&#26723;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Documents are written materials that contain information, instructions, or records. Large language models can summarize long documents as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#21019;&#24847;&#20869;&#23481;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Creative content refers to original and imaginative material such as stories, art, music, or writing. Large language models are capable of generating creative content as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#35745;&#31639;&#26426;&#20195;&#30721;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Computer code is a sequence of instructions written in a programming language that tells a computer what to do. Large language models are capable of generating computer code as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#29616;&#20195;&#29983;&#27963;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Modern life refers to the current state of human existence, including technological advancements, social structures, and daily activities. Large language models have a significant impact on various aspects of modern life&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#28145;&#24230;&#23398;&#20064;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Deep learning is a subset of machine learning that uses layered neural networks to process and interpret complex data. Transformer networks are a notable example of deep learning architecture&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#21442;&#25968;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Parameters are variables within a model that are adjusted during training to improve the model's performance. Large language models have a vast number of parameters, which contributes to their ability to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#25968;&#25454;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Data refers to information collected and stored for processing or analysis. Large language models are trained on large-scale data, which allows them to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#29983;&#25104;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Generation refers to the process of creating new content, such&#25104;&#31435;&#20197;&#26469;, text, code, or other forms of information. Large language models are capable of generating content as part of their function&gt;Generation refers to the process of creating new content, such as text, code, or other forms of information. Large language models are capable of generating content as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#29702;&#35299;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Understanding refers to the process of interpreting and making sense of information. Large language models are designed to understand human language as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#22823;&#35268;&#27169;&#25968;&#25454;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Massive data refers to large volumes of information that are collected, stored, and processed for analysis. Large language models are trained on massive data, which allows them to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#22823;&#35268;&#27169;&#21442;&#25968;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Massive parameters refer to the vast number of variables within a model that are adjusted during training to improve performance. Large language models have massive parameters, which contributes to their ability to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#20154;&#24037;&#26234;&#33021;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Artificial intelligence (AI) refers to the simulation of human intelligence in machines. Large language models are a type of AI model designed to understand and generate human language&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#20154;&#31867;&#35821;&#35328;&#29702;&#35299;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Human language understanding refers to the ability of a system to interpret and make sense of human language. Large language models are specialized AI models designed for this purpose&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#35821;&#35328;&#27169;&#22411;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Language models are artificial intelligence systems designed to understand and generate human language. Large language models (LLMs) are a specific type of language model that specializes in processing text and code&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#25991;&#26412;&#22788;&#29702;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Text processing refers to the analysis, interpretation, and manipulation of written text. Transformer networks have proven particularly effective in text processing as sequential data&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#24207;&#21015;&#25968;&#25454;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Sequential data refers to information that is processed in a specific order. Transformer networks have proven particularly effective in processing sequential data such as text&gt;&lt;|COMPLETE|&gt;Sequential data refers to information that is processed in a specific order. Transformer networks have proven particularly effective in processing sequential data such as text&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#24635;&#32467;">
+      <data key="d0" />
+      <data key="d1">Summary is a concise overview of the main points of a document or text. Large language models can summarize long documents as part of their function&gt;</data>
+      <data key="d2">ec59ea6730f29bbe9f6a0154f2454c62</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="LLM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The entity "LLM" refers to an organization that specializes in training large language models on extensive text and code datasets. These models are designed to generate text, translate languages, create creative content, and answer questions in an informative manner. LLM is an advanced artificial intelligence technology used across various fields, including code generation, text summarization, sentiment analysis, education, research, and healthcare. As an organization, LLM develops AI models capable of generating text, translating languages, and creating creative content, while also seeing explosive growth in the field with increasing scale and functionality.
+
+Additionally, LLM provides tools for personalized learning experiences, feedback on student writing, and the generation of educational content. The organization is involved in developing and training artificial intelligence models for various natural language processing tasks. Large Language Models represent a major advancement in AI, with models like transformer, BERT, and the GPT series leading the way in transforming natural language processing (NLP) and other related fields.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,7c5f7ada029ead739f4aa011c9e7abb2,884b9ad212a2c35db883a25c217cf7a8,8ea04a840980c6b9b6e631e3e829d405,9265098e3bdb1d293afa6c118ce831e4,c5af4c85ee8146f531662af339a4e321,cf699d2c8de1421deb72df80a99a9b24</data>
+    </node>
+    <node id="TRANSFORMER NETWORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Transformer network is a deep learning architecture known for its effectiveness in processing sequential data like text&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="TEXT">
+      <data key="d0">EVENT</data>
+      <data key="d1">Text is a type of sequential data processed by LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="LANGUAGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Language is a key element in the operation of LLMs, as they understand and generate text in various languages&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="CODE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Code is a type of data that LLMs analyze and learn patterns from&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="ARTICLE">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Article is a source of text data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="WEBSITE">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Website is a source of text data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="CODE REPOSITORY">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Code repository is a source of code data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="TEXT DATA">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Text data is a type of data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="CODE DATA">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Code data is a type of data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="LANGUAGE UNDERSTANDING">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Language understanding is a core function of LLMs, enabling them to predict word sequences and generate text&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="TEXT GENERATION">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">TEXT GENERATION is a critical task involving the training of large language models (LLMs) to generate coherent and contextually relevant text. This capability allows LLMs to produce text that is indistinguishable from human-written content, making it a key function in various applications such as content creation, customer service, and natural language processing. The process leverages the extensive training of these models to ensure the generated text aligns with the input context and maintains linguistic coherence.</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8,ae64fcb49cf89780f3895075cd52d538</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="CREATIVE CONTENT">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">Creative content is a type of output generated by LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="QUESTION ANSWERING">
+      <data key="d0">|&gt;GEO</data>
+      <data key="d1">QUESTION ANSWERING is a key function of Large Language Models (LLMs), enabling them to provide informative answers to queries. It is an event that falls under the category of natural language processing tasks, and LLMs can be fine-tuned for this purpose. As a critical component of NLP, QUESTION ANSWERING allows models to engage with user queries in a meaningful way, making it an essential capability for various applications involving textual information retrieval and understanding.</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8,9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="BOOK">
+      <data key="d0" />
+      <data key="d1">Book is a source of text data used in training LLMs&gt;</data>
+      <data key="d2">884b9ad212a2c35db883a25c217cf7a8</data>
+      <data key="d3">GEO</data>
+    </node>
+    <node id="TRANSFORMER ARCHITECTURE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The transformer architecture, introduced in 2017, revolutionized natural language processing by enabling effective capture of long-distance dependencies in text&gt;</data>
+      <data key="d2">8ea04a840980c6b9b6e631e3e829d405</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="TRANSFORMER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Transformer is an architectural innovation in machine learning that has significantly impacted the field of natural language processing (NLP). Introduced in 2017, it revolutionized the way models handle long-range dependencies in text by enabling efficient processing of long-distance relationships and allowing for parallel computation. This architectural framework marked a major breakthrough in NLP, leading to a paradigm shift in the development of large language models (LLMs). The Transformer architecture is considered a key breakthrough in the history of LLMs, known for its ability to handle long-range dependencies and parallel processing, which has enabled more efficient and effective natural language understanding and generation.</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24,d502e69bdc2ec7aa644a837115babde9,dc097bdbce418dca9f2d5a84425a82b9</data>
+    </node>
+    <node id="RECURRENT NEURAL NETWORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Recurrent Neural Network is a previous architecture that struggled with capturing long-range dependencies in text</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="SELF-ATTENTION">
+      <data key="d0">EVENT</data>
+      <data key="d1">Self-attention is a mechanism within the transformer architecture that allows models to weigh the importance of different words in an input sequence</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="LONG-RANGE DEPENDENCIES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Long-range dependencies refer to relationships between words in a text that are far apart but still semantically connected</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="ENCODER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Encoder is a component of the transformer architecture responsible for processing input sequences and generating their meaning representations</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="DECODER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Decoder is a component of the transformer architecture responsible for generating output sequences based on the encoder's representations</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="LONG-SEQUENCE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Long-sequence refers to the ability of the transformer model to handle sequences of text that are long in length</data>
+      <data key="d2">d502e69bdc2ec7aa644a837115babde9</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="SELF-SUPERVISED LEARNING">
+      <data key="d0">EVENT</data>
+      <data key="d1">A method used in training large language models where the model predicts missing words or the next word in a sequence</data>
+      <data key="d2">ae64fcb49cf89780f3895075cd52d538</data>
+    </node>
+    <node id="TRANSFORMER MODEL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A type of deep learning model composed of an encoder and a decoder, commonly used in natural language processing tasks&gt;</data>
+      <data key="d2">ae64fcb49cf89780f3895075cd52d538</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="LANGUAGE STRUCTURE">
+      <data key="d0">EVENT</data>
+      <data key="d1">**LANGUAGE STRUCTURE** refers to a concept that models understand through self-supervised learning, encompassing syntax, semantics, and world knowledge embedded in training data. This understanding is an event that requires deep analysis by large language models (LLMs) during their training process. The structure of language is modeled and learned through extensive exposure to textual data, enabling the system to capture the complex relationships and patterns inherent in human language. This framework allows LLMs to generate meaningful and contextually appropriate responses by leveraging the structured understanding of language derived from their training.</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4,ae64fcb49cf89780f3895075cd52d538</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="CONTEXT UNDERSTANDING">
+      <data key="d0">EVENT</data>
+      <data key="d1">A crucial aspect of text generation where models must comprehend the surrounding information to produce meaningful output&gt;</data>
+      <data key="d2">ae64fcb49cf89780f3895075cd52d538</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="SYNTAX AND SEMANTICS">
+      <data key="d0">EVENT</data>
+      <data key="d1">The analysis of syntax and semantics is an event that requires deep understanding by LLMs during training&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="TRAINED DATA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Trained data refers to the large-scale datasets used to train LLMs, which include embedded world knowledge&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="FINE-TUNING">
+      <data key="d0">EVENT</data>
+      <data key="d1">Fine-tuning is an event that involves optimizing LLMs for specific tasks using smaller, domain-specific datasets&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="NATURAL LANGUAGE PROCESSING">
+      <data key="d0">EVENT</data>
+      <data key="d1">Natural Language Processing (NLP) is a field that has involved decades of research and innovation, focusing on how machines can understand and generate human language. It encompasses various tasks such as question answering, text summarization, and translation, which large language models (LLMs) are optimized for. The field is characterized by continuous research and development aimed at improving the capabilities of machines in processing and generating human language.</data>
+      <data key="d2">66331e41cc97cd2c0c2f50ade336bb59,9265098e3bdb1d293afa6c118ce831e4,d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="MODEL SCALING">
+      <data key="d0">EVENT</data>
+      <data key="d1">Model scaling is an event that refers to the increasing size of LLMs, measured by the number of parameters they contain&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="COMPUTATIONAL CAPACITY">
+      <data key="d0">EVENT</data>
+      <data key="d1">Computational capacity is an event that has improved over time, enabling the development of extremely large models with billions or trillions of parameters&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="TEXT SUMMARIZATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">TEXT SUMMARIZATION is an application area within the realm of large language models (LLMs) where the technology is used to automatically compress lengthy documents into concise summaries. This process saves time and effort for users by distilling the essential information from longer texts. It is also recognized as a natural language processing task that LLMs can be fine-tuned for, highlighting its importance in the field of NLP. The dual nature of TEXT SUMMARIZATION&#8212;both as an application and a trainable task&#8212;underscores its significance in improving efficiency in information retrieval and processing.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="TRANSLATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">Translation is an event that is one of the natural language processing tasks that LLMs can be fine-tuned for&gt;</data>
+      <data key="d2">9265098e3bdb1d293afa6c118ce831e4</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="LARGE LANGUAGE MODELS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">An organization or field that focuses on the development and advancement of large language models&gt;</data>
+      <data key="d2">66331e41cc97cd2c0c2f50ade336bb59</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="ELLIA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Ellia is an early NLP system developed in 1966 that can identify keywords from input and respond using pre-programmed answers, demonstrating the potential of machines to interact with humans using natural language&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="NLP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Natural Language Processing (NLP) is a field that has undergone significant transformation due to advancements in large language models, particularly those based on the transformer architecture. This evolution includes notable milestones such as the introduction of word embeddings in the mid-2000s, which represented words as dense vectors in a continuous space capturing semantic relationships. These developments have collectively contributed to the progression and enhanced capabilities of NLP technologies.</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24,d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="LONG SHORT-TERM MEMORY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (RNN) that have been developed to improve the ability of machines to process and remember information over time, contributing to more complex language models&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="WORD EMBEDDINGS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Word embeddings are a technique introduced in the mid-2000s that represent words as dense vectors in a continuous space, capturing semantic relationships between words&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="NLP FIELD">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The NLP field has been characterized by decades of research and innovation, with early efforts focusing on rule-based systems and statistical methods, and later developments including word embeddings and LSTM networks&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="HUMAN-NATURAL LANGUAGE INTERACTION">
+      <data key="d0">EVENT</data>
+      <data key="d1">The potential of machines to interact with humans using natural language was demonstrated by early systems like Ellia, which could identify keywords and respond using pre-programmed answers&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="SEMANTIC RELATIONSHIPS">
+      <data key="d0">EVENT</data>
+      <data key="d1">The capture of semantic relationships between words through word embeddings has been a significant advancement in NLP, allowing for more nuanced understanding and processing of language&gt;</data>
+      <data key="d2">d0a571896e1a4a16481bceec3282d112</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="RIN">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">RIN is a type of neural network used for processing sequential data, particularly text, allowing models to capture dependencies between words in a sentence&gt;</data>
+      <data key="d2">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </node>
+    <node id="LSTM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LSTM is a specific type of RIN designed to handle long-term dependencies in sequences, marking a significant advancement in sequential data processing&gt;</data>
+      <data key="d2">dc097bdbce418dca9f2d5a84425a82b9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="BERT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">BERT is a pre-trained deep learning model based on the transformer architecture, developed by Google, which has achieved state-of-the-art results in various NLP tasks. It is used for generating contextualized word representations in natural language processing.</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24,dc097bdbce418dca9f2d5a84425a82b9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="GPT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">GPT is a series of large language models developed by OpenAI, known for its pre-training on massive text corpora and effective fine-tuning for specific tasks. As part of this series, GPT is a pre-trained language model based on the transformer architecture, designed to generate text and understand context in natural language processing.</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24,dc097bdbce418dca9f2d5a84425a82b9</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="KING">
+      <data key="d0">PERSON</data>
+      <data key="d1">King is a noun referring to a person who rules a country or kingdom&gt;</data>
+      <data key="d2">dc097bdbce418dca9f2d5a84425a82b9</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="QUEIN">
+      <data key="d0">PERSON</data>
+      <data key="d1">Quein is a noun referring to a person or entity, possibly a name or term in a specific context&gt;</data>
+      <data key="d2">dc097bdbce418dca9f2d5a84425a82b9</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="APPLE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </node>
+    <node id="GPT2">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">GPT2 is an advanced version of the GPT series, developed by OpenAI, which demonstrates the exceptional ability of large models to generate coherent and creative text even without explicit fine-tuning&gt;</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="GPT3">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">GPT3 is a large language model developed by OpenAI, featuring an unprecedented 17501 parameters, showcasing remarkable capabilities in text generation, understanding, and reasoning. It is important to note that GPT3 refers to the model itself, not an organization, and was released by OpenAI in 2020 with 17501 parameters, demonstrating exceptional capabilities in text generation, understanding, and reasoning. The entity "GPT3" is a large language model, not an organization, and the descriptions have been reconciled to clarify that GPT3 is the model developed by OpenAI.</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2,cf699d2c8de1421deb72df80a99a9b24</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="OPEN AI">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">OpenAI is a research organization that has developed several influential large language models, including GPT series, known for their impact on the widespread adoption of LLMs&gt;</data>
+      <data key="d2">cf699d2c8de1421deb72df80a99a9b24</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="GOOGLE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Google is an organization that has developed models such as Google's Lambda&gt;</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="META">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Meta is an organization that has released a series of models&gt;</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="LARGE MODEL TRENDS">
+      <data key="d0">EVENT</data>
+      <data key="d1">The trend of large models has continued to drive progress in the field&gt;</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="TRAINING TECHNOLOGIES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Training technologies have continued to drive progress in the field&gt;</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="DATA MANAGEMENT">
+      <data key="d0">EVENT</data>
+      <data key="d1">Data management has continued to drive progress in the field&gt;&lt;|COMPLETE|&gt;("entity"Data management has continued to drive progress in the field&gt;&lt;|COMPLETE|&gt;</data>
+      <data key="d2">7c5f7ada029ead739f4aa011c9e7abb2</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="ORGANIZATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The text mentions the progress of an organization and the continuous promotion of development in this rapidly growing field</data>
+      <data key="d2">91af4aa2cd37762635a8416540779b97</data>
+    </node>
+    <node id="PERSON">
+      <data key="d0" />
+      <data key="d1">The text mentions individuals who are contributing to the development of the organization</data>
+      <data key="d2">91af4aa2cd37762635a8416540779b97</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="CODE GENERATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">Code generation is an application area of LLM where it helps developers generate code snippets, functions, and entire programs based on natural language descriptions&gt;</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+    </node>
+    <node id="SENTIMENT ANALYSIS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Sentiment analysis is an application area of LLM where it analyzes text to determine the emotional tone or sentiment, which is valuable for understanding customer feedback and market trends&gt;</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="EDUCATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">Education is an application area of LLM where it can create personalized learning experiences, provide feedback on student writing, and generate educational content&gt;</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="RESEARCH">
+      <data key="d0">EVENT</data>
+      <data key="d1">Research, as an application area, involves the use of Large Language Models (LLM) to assist researchers in analyzing large volumes of academic papers. The LLM helps identify relevant information and generate hypotheses, thereby supporting the research process. Additionally, Research can also be considered an event where LLM technology is employed in a similar manner to aid researchers in their analysis and hypothesis generation. In both contexts, the primary function of LLM is to enhance the efficiency and effectiveness of research by processing and interpreting large datasets of academic literature.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,c5af4c85ee8146f531662af339a4e321</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="HEALTHCARE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Healthcare is an application area of LLM where it is being explored for use in medical fields, including but not limited to medical diagnosis assistance, drug discovery, and patient communication. The exploration of Large Language Models (LLM) in healthcare aims to enhance various aspects of medical practice and research, leveraging the capabilities of AI to improve diagnostic processes, accelerate drug development, and facilitate more effective communication between patients and healthcare providers.</data>
+      <data key="d2">01de9b139bd9dd7743f01675083e22ed,c5af4c85ee8146f531662af339a4e321</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <edge source="SPEAKER-1" target="2025/07/25">
+      <data key="d4">16.0</data>
+      <data key="d5">Speaker-1 participated in the event on July 25, 2025</data>
+      <data key="d6">abdeaa49e5aa4538c713782ffcc4dd29</data>
+    </edge>
+    <edge source="SPEAKER-2" target="2025/07/25">
+      <data key="d4">16.0</data>
+      <data key="d5">Speaker-2 participated in the event on July 25, 2025</data>
+      <data key="d6">abdeaa49e5aa4538c713782ffcc4dd29</data>
+    </edge>
+    <edge source="SPEAKER-2" target="LLM">
+      <data key="d4">2.0</data>
+      <data key="d5">Speaker-2 explained the principles behind the LLM</data>
+      <data key="d6">8ea04a840980c6b9b6e631e3e829d405</data>
+    </edge>
+    <edge source="SPEAKER-3" target="2025/07/25">
+      <data key="d4">2.0</data>
+      <data key="d5">Speaker-3 participated in the event on July 25, 2025</data>
+      <data key="d6">abdeaa49e5aa4538c713782ffcc4dd29</data>
+    </edge>
+    <edge source="SPEAKER-3" target="NATURAL LANGUAGE PROCESSING">
+      <data key="d4">2.0</data>
+      <data key="d5">Speaker-3 discussed the history and development of natural language processing in the context of large language models</data>
+      <data key="d6">66331e41cc97cd2c0c2f50ade336bb59</data>
+    </edge>
+    <edge source="SPEAKER-3" target="LARGE LANGUAGE MODELS">
+      <data key="d4">2.0</data>
+      <data key="d5">Speaker-3 provided information about the development history and progress of large language models</data>
+      <data key="d6">66331e41cc97cd2c0c2f50ade336bb59</data>
+    </edge>
+    <edge source="&#22823;&#22411;&#35821;&#35328;&#27169;&#22411;" target="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;">
+      <data key="d4">5.0</data>
+      <data key="d5">Large language models are based on deep learning architectures, with transformer networks being a notable example of this type of architecture</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#20154;&#24037;&#26234;&#33021;&#27169;&#22411;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are a type of artificial intelligence model that uses layered neural networks to process complex data</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#21442;&#25968;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures involve the use of parameters, which are variables adjusted during training to improve model performance</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#25968;&#25454;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures rely on large-scale data for training, allowing models to understand and generate human language</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#25991;&#26412;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are particularly effective in processing text as sequential data</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#20195;&#30721;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are capable of generating code as part of their function</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#29983;&#25104;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are capable of generating content such as text, code, or other forms of information</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#29702;&#35299;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are designed to understand human language as part of their function</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#24635;&#32467;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are capable of summarizing long documents as part of their function</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#22823;&#35268;&#27169;&#25968;&#25454;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures rely on massive data for training, allowing models to understand and generate human language</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#22823;&#35268;&#27169;&#21442;&#25968;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures involve the use of massive parameters, which contributes to their ability to understand and generate human language</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#20154;&#24037;&#26234;&#33021;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are a subset of artificial intelligence that uses layered neural networks to process complex data</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#20154;&#31867;&#35821;&#35328;&#29702;&#35299;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are designed for human language understanding, with large language models specializing in this area</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#35821;&#35328;&#27169;&#22411;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are the foundation of language models, with transformer networks being a notable example of this type of architecture</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#25991;&#26412;&#22788;&#29702;">
+      <data key="d4">5.0</data>
+      <data key="d5">Deep learning architectures are particularly effective in text processing as sequential data</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="&#28145;&#24230;&#23398;&#20064;&#26550;&#26500;" target="&#24207;&#21015;&#25968;&#25454;">
+      <data key="d4">1.0</data>
+      <data key="d5">Deep learning architectures are particularly effective in processing sequential data such as text</data>
+      <data key="d6">ec59ea6730f29bbe9f6a0154f2454c62</data>
+    </edge>
+    <edge source="LLM" target="TRANSFORMER NETWORK">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM is based on transformer network architecture which is effective for processing sequential data like text</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="TEXT">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM processes text data to learn patterns and generate text</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="LANGUAGE">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM understands and generates text in various languages</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="CODE">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM analyzes code data to learn patterns and generate text</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="BOOK">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM uses book data as a source of text during training</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="ARTICLE">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM uses article data as a source of text during training</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="WEBSITE">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM uses website data as a source of text during training</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="CODE REPOSITORY">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM uses code repository data as a source of code during training</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="TEXT DATA">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM processes text data to learn patterns and generate text</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="CODE DATA">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM analyzes code data to learn patterns and generate text</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="LANGUAGE UNDERSTANDING">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM has the capability to understand and predict word sequences in various languages</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="TEXT GENERATION">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM can generate text that is indistinguishable from human-written content</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="CREATIVE CONTENT">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM generates creative content such as stories, poems, and other forms of writing</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="QUESTION ANSWERING">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM can answer questions in an informative and detailed manner</data>
+      <data key="d6">884b9ad212a2c35db883a25c217cf7a8</data>
+    </edge>
+    <edge source="LLM" target="LANGUAGE STRUCTURE">
+      <data key="d4">1.0</data>
+      <data key="d5">LLM requires understanding of language structure during training</data>
+      <data key="d6">9265098e3bdb1d293afa6c118ce831e4</data>
+    </edge>
+    <edge source="LLM" target="GPT3">
+      <data key="d4">2.0</data>
+      <data key="d5">GPT3 is a prominent example of a large language model (LLM) that has set new standards in text generation, understanding, and reasoning</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="LLM" target="OPEN AI">
+      <data key="d4">2.0</data>
+      <data key="d5">OpenAI is a research organization that has developed several influential large language models (LLMs), including the GPT series, which have had a significant impact on the field</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="LLM" target="CODE GENERATION">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM is used for code generation, helping developers generate code snippets, functions, and entire programs based on natural language descriptions</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed</data>
+    </edge>
+    <edge source="LLM" target="TEXT SUMMARIZATION">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM is used for text summarization, automatically compressing lengthy documents into concise summaries</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed</data>
+    </edge>
+    <edge source="LLM" target="SENTIMENT ANALYSIS">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM is used for sentiment analysis, analyzing text to determine the emotional tone or sentiment</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed</data>
+    </edge>
+    <edge source="LLM" target="EDUCATION">
+      <data key="d4">2.0</data>
+      <data key="d5">LLM is used in education, creating personalized learning experiences and providing feedback on student writing</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed</data>
+    </edge>
+    <edge source="LLM" target="RESEARCH">
+      <data key="d4">4.0</data>
+      <data key="d5">The LLM is extensively utilized in research to assist academics in analyzing large volumes of academic papers and generating hypotheses. This technology enhances the efficiency of research processes by enabling researchers to process vast amounts of information quickly and systematically. The LLM serves as a valuable tool in the field of RESEARCH, supporting scholarly activities through its ability to extract insights from academic literature and contribute to the formulation of new research questions. Its integration into research workflows demonstrates its utility in advancing scientific understanding and improving the productivity of researchers.</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed,c5af4c85ee8146f531662af339a4e321</data>
+    </edge>
+    <edge source="LLM" target="HEALTHCARE">
+      <data key="d4">4.0</data>
+      <data key="d5">The entity "LLM" is being explored for use in the healthcare sector, particularly in medical fields. It is being considered for various applications including medical diagnosis, drug discovery, and patient communication. These uses highlight the potential of LLM technology to enhance and support healthcare services by providing tools for improved diagnosis, pharmaceutical research, and more effective communication between patients and healthcare providers. The focus on medical fields underscores the integration of LLM into specialized healthcare contexts to advance clinical practices and patient care.</data>
+      <data key="d6">01de9b139bd9dd7743f01675083e22ed,c5af4c85ee8146f531662af339a4e321</data>
+    </edge>
+    <edge source="TEXT GENERATION" target="SELF-SUPERVISED LEARNING">
+      <data key="d4">18.0</data>
+      <data key="d5">Self-supervised learning is essential for text generation as it enables models to generate coherent and contextually relevant text</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="TEXT GENERATION" target="TRANSFORMER MODEL">
+      <data key="d4">16.0</data>
+      <data key="d5">Transformer models use the representations created from input sequences to generate output sequences</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="TEXT GENERATION" target="LANGUAGE STRUCTURE">
+      <data key="d4">2.0</data>
+      <data key="d5">Understanding language structure is essential for generating coherent and contextually relevant text</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="TEXT GENERATION" target="CONTEXT UNDERSTANDING">
+      <data key="d4">14.0</data>
+      <data key="d5">Text generation relies on context understanding to produce coherent and relevant text</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="TRANSFORMER" target="RECURRENT NEURAL NETWORK">
+      <data key="d4">2.0</data>
+      <data key="d5">Transformer architecture revolutionized natural language processing, overcoming challenges that previous RNN architectures struggled with</data>
+      <data key="d6">d502e69bdc2ec7aa644a837115babde9</data>
+    </edge>
+    <edge source="TRANSFORMER" target="RIN">
+      <data key="d4">2.0</data>
+      <data key="d5">Transformer is an architectural innovation that builds upon RIN to handle long-distance dependencies and parallel computation, representing a major breakthrough in natural language processing</data>
+      <data key="d6">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="TRANSFORMER" target="BERT">
+      <data key="d4">4.0</data>
+      <data key="d5">BERT is a pre-trained model based on the transformer architecture, used for generating contextualized word representations in natural language processing. The transformer architecture serves as the foundation of BERT, a model that has achieved state-of-the-art results in NLP tasks. Both BERT and the transformer architecture are critical components in the field of natural language processing, with BERT specifically leveraging the transformer framework to enhance performance in a wide range of NLP tasks.</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24,dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="TRANSFORMER" target="GPT">
+      <data key="d4">2.0</data>
+      <data key="d5">GPT is a pre-trained language model based on the transformer architecture, designed to generate text and understand context in natural language processing</data>
+      <data key="d6">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="TRANSFORMER" target="NLP">
+      <data key="d4">2.0</data>
+      <data key="d5">The transformer architecture has been a key driving force in the transformation of NLP, leading to significant advancements in the field</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="SELF-SUPERVISED LEARNING" target="TRANSFORMER MODEL">
+      <data key="d4">18.0</data>
+      <data key="d5">Self-supervised learning is a technique used to train transformer models</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="SELF-SUPERVISED LEARNING" target="LANGUAGE STRUCTURE">
+      <data key="d4">16.0</data>
+      <data key="d5">Self-supervised learning helps models understand language structure, syntax, and semantics</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="SELF-SUPERVISED LEARNING" target="CONTEXT UNDERSTANDING">
+      <data key="d4">16.0</data>
+      <data key="d5">Self-supervised learning is crucial for context understanding, allowing models to generate meaningful output based on surrounding information</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="TRANSFORMER MODEL" target="LANGUAGE STRUCTURE">
+      <data key="d4">14.0</data>
+      <data key="d5">Transformer models process input sequences to understand language structure and create meaningful representations</data>
+      <data key="d6">ae64fcb49cf89780f3895075cd52d538</data>
+    </edge>
+    <edge source="NATURAL LANGUAGE PROCESSING" target="LARGE LANGUAGE MODELS">
+      <data key="d4">2.0</data>
+      <data key="d5">Natural language processing is a field that has contributed to the development of large language models over several decades</data>
+      <data key="d6">66331e41cc97cd2c0c2f50ade336bb59</data>
+    </edge>
+    <edge source="ELLIA" target="NLP FIELD">
+      <data key="d4">14.0</data>
+      <data key="d5">Ellia is an early example of an organization within the NLP field that demonstrated the potential of machines to interact with humans using natural language</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="ELLIA" target="HUMAN-NATURAL LANGUAGE INTERACTION">
+      <data key="d4">16.0</data>
+      <data key="d5">Ellia demonstrated the potential of machines to interact with humans using natural language by identifying keywords and responding with pre-programmed answers</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="NLP" target="BERT">
+      <data key="d4">2.0</data>
+      <data key="d5">BERT is a model that has achieved state-of-the-art results in various NLP tasks, demonstrating the transformative impact of transformer-based models</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="NLP" target="GPT">
+      <data key="d4">2.0</data>
+      <data key="d5">GPT is a series of models that have had a significant impact on NLP, particularly through its pre-training on large text corpora and effective fine-tuning for specific tasks</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="LONG SHORT-TERM MEMORY" target="NLP FIELD">
+      <data key="d4">14.0</data>
+      <data key="d5">The development of LSTM networks represents a significant advancement in the NLP field, contributing to more complex language models</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="WORD EMBEDDINGS" target="NLP FIELD">
+      <data key="d4">16.0</data>
+      <data key="d5">The introduction of word embeddings marked a major transformation in the NLP field, providing a foundation for more complex language models</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="WORD EMBEDDINGS" target="SEMANTIC RELATIONSHIPS">
+      <data key="d4">18.0</data>
+      <data key="d5">Word embeddings capture semantic relationships between words, allowing for more nuanced understanding and processing of language in NLP</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="NLP FIELD" target="SEMANTIC RELATIONSHIPS">
+      <data key="d4">2.0</data>
+      <data key="d5">The NLP field has made significant progress in capturing semantic relationships between words through the use of word embeddings</data>
+      <data key="d6">d0a571896e1a4a16481bceec3282d112</data>
+    </edge>
+    <edge source="RIN" target="LSTM">
+      <data key="d4">2.0</data>
+      <data key="d5">LSTM is a specialized form of RIN designed to handle long-term dependencies in sequences, marking a significant advancement in sequential data processing</data>
+      <data key="d6">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="BERT" target="GPT">
+      <data key="d4">2.0</data>
+      <data key="d5">BERT and GPT are both models based on the transformer architecture, with BERT focusing on pre-training for NLP tasks and GPT on pre-training for text generation</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="GPT" target="OPEN AI">
+      <data key="d4">2.0</data>
+      <data key="d5">GPT is a series of models developed by OpenAI, which has had a significant impact on the widespread adoption of LLMs</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="KING" target="APPLE">
+      <data key="d4">2.0</data>
+      <data key="d5">King and apple are both nouns that can be used in different contexts, but they are not directly related in meaning</data>
+      <data key="d6">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="KING" target="QUEIN">
+      <data key="d4">2.0</data>
+      <data key="d5">King and quein are both nouns that can be used in different contexts, but they are not directly related in meaning</data>
+      <data key="d6">dc097bdbce418dca9f2d5a84425a82b9</data>
+    </edge>
+    <edge source="GPT2" target="GPT3">
+      <data key="d4">2.0</data>
+      <data key="d5">GPT2 and GPT3 are part of the GPT series, with GPT3 being an advanced version that demonstrates even greater capabilities in text generation and understanding</data>
+      <data key="d6">cf699d2c8de1421deb72df80a99a9b24</data>
+    </edge>
+    <edge source="ORGANIZATION" target="PERSON">
+      <data key="d4">2.0</data>
+      <data key="d5">Individuals are working to advance the development of the organizationThe organization is being promoted by individuals to advance its development</data>
+      <data key="d6">91af4aa2cd37762635a8416540779b97</data>
+    </edge>
+  </graph>
+</graphml>

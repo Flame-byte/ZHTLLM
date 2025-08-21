@@ -1,0 +1,255 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&#31206;&#39046;">
+      <data key="d0">PERSON</data>
+      <data key="d1">&#31206;&#39046; is leading the meeting and discussing the project introduction PPT, including its structure, content, and modifications.
+&#31206;&#39046;&#27491;&#22312;&#24405;&#21046;&#35270;&#39057;&#24182;&#35752;&#35770;PPT&#20462;&#25913;&#65292;&#35745;&#21010;&#22312;28&#21495;&#26202;&#19978;&#20043;&#21069;&#23436;&#25104;&#22823;&#37096;&#20998;&#24037;&#20316;
+&#31206;&#39046; is a person discussing changes to the project's introduction and technical section
+&#31206;&#39046; is a person contributing to the discussion about AI model selection, suggesting a structured approach to presenting the models (GraphRAG, RAG, and others) and their pros and cons.&gt;
+&#31206;&#39046; is a person discussing the Fast Flow LLM project and sharing ideas about graphrag and R
+&#31206;&#39046; is discussing the project's characteristics and its efficiency in the context of NPU utilization and power consumption
+&#31206;&#39046; is a person discussing a project, particularly focusing on an open-source project and its comparisons with other projects like ollama and llm studio. He plans to present detailed comparisons of power consumption and inference speed.
+&#31206;&#39046; is discussing product advantages and ideas for presenting them, such as intelligent association and secretary functions
+&#31206;&#39046; is a person involved in the discussion about the presentation format and content
+&#31206;&#39046; is part of the conversation, discussing the use of graphs and tables for documentation and mentions the use of TML files
+&#31206;&#39046; is a person discussing technical aspects, data security, and commercial prospects
+&#31206;&#39046; is a participant in the discussion about the business model and market prospects of a project
+&#31206;&#39046; is a participant in the discussion about preparing a presentation and suggests using a pie chart for better visualization
+&#31206;&#39046; is discussing business models and seeking advice from &#39640;&#32769;&#24072;
+&#31206;&#39046; is a person discussing business models and project tasks
+&#31206;&#39046; is involved in reviewing and providing feedback on project documentation
+&#31206;&#39046; is a person involved in discussing and editing project descriptions and system features)&lt;|COMPLETE|&gt;&#31206;&#39046; is a person involved in discussing and editing project descriptions and system features)&lt;|COMPLETE|&gt;("entity"
+&#31206;&#39046; is a person involved in the conversation and is coordinating the project timeline and discussions with &#39640;&#32769;&#24072;.
+&#31206;&#39046; is a person involved in the conversation discussing the timeline for completing tasks</data>
+      <data key="d2">00b3910b182c3ae7e8ea3e28c76eb782,140533963134ba377eb9c6142993ec09,176580509884012d5213f85e858b2d66,1dad6efb7594310534cfb450ff750ff7,227be88b1ac74a9d82463e0c56e3e0dc,2d9ff12d467d6028fb48aaa61813fc95,347675a211a3df4fdb8be0ecc13d7e96,3d653b591e88ecdf49c5a3a97e21c5e5,429e88abcf8d6282ce0bdc363e6a5929,590ef8dfdf347e30eb140d94fc42279b,667a7098c6e4cee48b1edb890417eddf,6befa56969c23cc4279505f93d7bc5e1,7350638d0f42925e88a294d5ac4020b7,78a919ce1ac92c166103fe68853ab3d4,93400420030721f947251a74e78bf42d,ac3316d1b3598332c485ace9532142dc,bd461478a77bd689c9d8467b1dbe8ebd,be096e7c0f9d14ed7873ba59f07811d9,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+    </node>
+    <node id="&#39640;&#32769;&#24072;">
+      <data key="d0">PERSON</data>
+      <data key="d1">&#39640;&#32769;&#24072; is mentioned as someone to communicate with regarding PPT modifications.
+&#39640;&#32769;&#24072;&#26159;&#31206;&#39046;&#35745;&#21010;&#21672;&#35810;PPT&#20462;&#25913;&#24847;&#35265;&#30340;&#23545;&#35937;
+&#39640;&#32769;&#24072; is a person mentioned as someone to consult regarding the arrangement of content
+&#39640;&#32769;&#24072; is mentioned as someone to consult regarding business models
+&#39640;&#32769;&#24072; is a person mentioned as someone to consult about business models
+&#39640;&#32769;&#24072; is the intended recipient of the project documentation
+&#39640;&#32769;&#24072; is a person who will be consulted as part of the project discussions.</data>
+      <data key="d2">00b3910b182c3ae7e8ea3e28c76eb782,176580509884012d5213f85e858b2d66,2d9ff12d467d6028fb48aaa61813fc95,667a7098c6e4cee48b1edb890417eddf,78a919ce1ac92c166103fe68853ab3d4,bd461478a77bd689c9d8467b1dbe8ebd,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="&#26041;&#29004;&#26480;">
+      <data key="d0">PERSON</data>
+      <data key="d1">&#26041;&#29004;&#26480;&#21442;&#19982;&#20250;&#35758;&#35752;&#35770;&#65292;&#21516;&#24847;&#23558;&#21830;&#19994;&#27169;&#24335;&#37096;&#20998;&#25918;&#21040;&#31532;&#19977;&#39029;
+&#26041;&#29004;&#26480; is a person discussing the arrangement of content and technical implementation in a project
+&#26041;&#29004;&#26480; is a person involved in the project, suggesting to focus on the GraphRAG model during the presentation
+&#26041;&#29004;&#26480; is a person involved in the discussion about AI model selection, specifically mentioning the GraphRAG model and the process of model evaluation.&gt;
+&#26041;&#29004;&#26480; is a person agreeing with &#31206;&#39046;'s suggestions
+&#26041;&#29004;&#26480; is involved in the discussion about the project's adaptation and efficiency issues
+&#26041;&#29004;&#26480; is a person involved in the discussion about the presentation format and content
+
+
+&#26041;&#29004;&#26480; is a participant in the discussion about the business model and market prospects of a project
+
+&#26041;&#29004;&#26480; is discussing chart types and market research with &#31206;&#39046;
+&#26041;&#29004;&#26480; is a person discussing business models and project improvements
+&#26041;&#29004;&#26480; is involved in discussing project improvements and documentation
+&#26041;&#29004;&#26480; is a person involved in discussing and editing project descriptions and system features
+&#26041;&#29004;&#26480; is a person involved in the conversation and is responsible for making modifications to the project.
+&#26041;&#29004;&#26480; is a person involved in the conversation discussing the timeline for completing tasks</data>
+      <data key="d2">00b3910b182c3ae7e8ea3e28c76eb782,140533963134ba377eb9c6142993ec09,1dad6efb7594310534cfb450ff750ff7,2d9ff12d467d6028fb48aaa61813fc95,347675a211a3df4fdb8be0ecc13d7e96,3d653b591e88ecdf49c5a3a97e21c5e5,590ef8dfdf347e30eb140d94fc42279b,667a7098c6e4cee48b1edb890417eddf,69f224563f78e3774306e7726fc2c378,6befa56969c23cc4279505f93d7bc5e1,7350638d0f42925e88a294d5ac4020b7,78a919ce1ac92c166103fe68853ab3d4,93400420030721f947251a74e78bf42d,ac3316d1b3598332c485ace9532142dc,bd461478a77bd689c9d8467b1dbe8ebd,be096e7c0f9d14ed7873ba59f07811d9,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="GRAPHRAG">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">GraphRAG is a model selected for the project after research and comparison with other models
+</data>
+      <data key="d2">3d653b591e88ecdf49c5a3a97e21c5e5,69f224563f78e3774306e7726fc2c378</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="&#23454;&#26102;&#35821;&#38899;&#35782;&#21035;&#21644;&#36716;&#20889;">
+      <data key="d0">EVENT</data>
+      <data key="d1">Real-time speech recognition and transcription is a highlight of the project's technical route</data>
+      <data key="d2">69f224563f78e3774306e7726fc2c378</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="NPU &#30340;&#26412;&#22320;&#21270; AI &#37096;&#32626;">
+      <data key="d0">EVENT</data>
+      <data key="d1">Localized AI deployment using NPU is a key technical highlight of the project</data>
+      <data key="d2">69f224563f78e3774306e7726fc2c378</data>
+      <data key="d3">EVENT</data>
+    </node>
+    <node id="NPU">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">NPU is an organization involved in localizing AI deployment and discussing AI models like GraphRAG and RAG. It is part of a strategic discussion about AI model selection and deployment.&gt;
+NPU is a hardware component mentioned in the context of the project, where its utilization is noted to be low during the 'prefer' phase.</data>
+      <data key="d2">3d653b591e88ecdf49c5a3a97e21c5e5,429e88abcf8d6282ce0bdc363e6a5929</data>
+    </node>
+    <node id="RAG">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">RAG is an AI model discussed in the context of AI deployment and model selection by NPU and its collaborators.&gt;</data>
+      <data key="d2">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </node>
+    <node id="FAST FLOW LLM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Fast Flow LLM is a self-developed open-source project with unique features that differentiate it from others, particularly in terms of inference efficiency</data>
+      <data key="d2">7350638d0f42925e88a294d5ac4020b7</data>
+      <data key="d3">ORGANIZATION</data>
+    </node>
+    <node id="OLLAMA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">ollama is an organization or project that is being compared to the open-source project discussed by &#31206;&#39046;.
+Ollama is an organization being compared in terms of power consumption and inference speed with LLM Studio</data>
+      <data key="d2">227be88b1ac74a9d82463e0c56e3e0dc,429e88abcf8d6282ce0bdc363e6a5929</data>
+    </node>
+    <node id="LLM STUDIO">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">llm studio is an organization or project that is being compared to the open-source project discussed by &#31206;&#39046;.
+LLM Studio is an organization being compared in terms of power consumption and inference speed with Ollama</data>
+      <data key="d2">227be88b1ac74a9d82463e0c56e3e0dc,429e88abcf8d6282ce0bdc363e6a5929</data>
+    </node>
+    <node id="&#24320;&#28304;&#39033;&#30446;">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">&#24320;&#28304;&#39033;&#30446; is the open-source project discussed by &#31206;&#39046;, which is being compared to ollama and llm studio.</data>
+      <data key="d2">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </node>
+    <node id="GPU">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </node>
+    <node id="30&#21495;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5df32bf8eca3545554beac999393ae8d</data>
+    </node>
+    <node id="&#32769;&#24072;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5df32bf8eca3545554beac999393ae8d</data>
+    </node>
+    <edge source="&#31206;&#39046;" target="&#39640;&#32769;&#24072;">
+      <data key="d4">62.0</data>
+      <data key="d5">&#31206;&#39046; plans to communicate with &#39640;&#32769;&#24072; about PPT modifications.
+&#31206;&#39046;&#35745;&#21010;&#21521;&#39640;&#32769;&#24072;&#21672;&#35810;PPT&#20462;&#25913;&#24847;&#35265;
+&#31206;&#39046; plans to consult &#39640;&#32769;&#24072; about the arrangement of content
+&#31206;&#39046; plans to consult &#39640;&#32769;&#24072; regarding business models
+&#31206;&#39046; plans to consult &#39640;&#32769;&#24072; about business models
+&#31206;&#39046; is involved in preparing project documentation to be sent to &#39640;&#32769;&#24072;
+&#31206;&#39046; plans to discuss the project with &#39640;&#32769;&#24072;.</data>
+      <data key="d6">00b3910b182c3ae7e8ea3e28c76eb782,176580509884012d5213f85e858b2d66,2d9ff12d467d6028fb48aaa61813fc95,667a7098c6e4cee48b1edb890417eddf,78a919ce1ac92c166103fe68853ab3d4,bd461478a77bd689c9d8467b1dbe8ebd,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="&#26041;&#29004;&#26480;">
+      <data key="d4">94.0</data>
+      <data key="d5">&#31206;&#39046;&#21644;&#26041;&#29004;&#26480;&#20849;&#21516;&#35752;&#35770;PPT&#20462;&#25913;&#26041;&#26696;
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on arranging project content and discussing technical changes
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on the discussion about AI model selection and deployment strategies, focusing on models like GraphRAG and RAG.
+&#26041;&#29004;&#26480; agrees with &#31206;&#39046;'s suggestions
+&#31206;&#39046; and &#26041;&#29004;&#26480; are discussing the project's efficiency and adaptation issues
+&#31206;&#39046; and &#26041;&#29004;&#26480; are discussing the format and content of a presentation
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on creating a document and discussing the use of graphs and tables
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on technical updates and data security discussions
+&#26041;&#29004;&#26480; and &#31206;&#39046; are discussing the business model and market prospects of a project
+&#26041;&#29004;&#26480; and &#31206;&#39046; are discussing how to prepare and present a presentation
+&#26041;&#29004;&#26480; and &#31206;&#39046; are discussing chart types and market research
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on project improvements and discussing business models
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on project documentation and improvements
+&#26041;&#29004;&#26480; and &#31206;&#39046; are collaborating on a project and discussing modifications and timelines.
+&#26041;&#29004;&#26480; and &#31206;&#39046; are discussing the timeline for completing tasks</data>
+      <data key="d6">00b3910b182c3ae7e8ea3e28c76eb782,1dad6efb7594310534cfb450ff750ff7,2d9ff12d467d6028fb48aaa61813fc95,347675a211a3df4fdb8be0ecc13d7e96,3d653b591e88ecdf49c5a3a97e21c5e5,590ef8dfdf347e30eb140d94fc42279b,667a7098c6e4cee48b1edb890417eddf,6befa56969c23cc4279505f93d7bc5e1,7350638d0f42925e88a294d5ac4020b7,78a919ce1ac92c166103fe68853ab3d4,93400420030721f947251a74e78bf42d,ac3316d1b3598332c485ace9532142dc,bd461478a77bd689c9d8467b1dbe8ebd,be096e7c0f9d14ed7873ba59f07811d9,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="NPU">
+      <data key="d4">1.0</data>
+      <data key="d5">&#31206;&#39046; is contributing to the discussion about AI model selection and deployment strategies with NPU, suggesting a structured approach to presenting the models.</data>
+      <data key="d6">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="FAST FLOW LLM">
+      <data key="d4">14.0</data>
+      <data key="d5">&#31206;&#39046; is discussing and introducing the Fast Flow LLM project</data>
+      <data key="d6">7350638d0f42925e88a294d5ac4020b7</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="OLLAMA">
+      <data key="d4">7.0</data>
+      <data key="d5">&#31206;&#39046; is comparing the open-source project to ollama, focusing on power consumption and inference speed.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="LLM STUDIO">
+      <data key="d4">7.0</data>
+      <data key="d5">&#31206;&#39046; is comparing the open-source project to llm studio, focusing on power consumption and inference speed.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="&#31206;&#39046;" target="&#24320;&#28304;&#39033;&#30446;">
+      <data key="d4">1.0</data>
+      <data key="d5">&#31206;&#39046; is discussing the open-source project, focusing on its features and comparisons with other projects.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="&#39640;&#32769;&#24072;" target="&#26041;&#29004;&#26480;">
+      <data key="d4">18.0</data>
+      <data key="d5">&#26041;&#29004;&#26480;&#21644;&#31206;&#39046;&#35745;&#21010;&#21521;&#39640;&#32769;&#24072;&#21672;&#35810;PPT&#20462;&#25913;&#24847;&#35265;
+&#26041;&#29004;&#26480; mentions that neither he nor &#39640;&#32769;&#24072; has much experience with business models
+&#26041;&#29004;&#26480; mentions that both he and &#39640;&#32769;&#24072; lack experience in business models
+&#26041;&#29004;&#26480; plans to send the project documentation to &#39640;&#32769;&#24072; for review</data>
+      <data key="d6">00b3910b182c3ae7e8ea3e28c76eb782,2d9ff12d467d6028fb48aaa61813fc95,667a7098c6e4cee48b1edb890417eddf,ddfdd32a11a06d8c1c9c2001e2dbbc03</data>
+    </edge>
+    <edge source="&#26041;&#29004;&#26480;" target="GRAPHRAG">
+      <data key="d4">14.0</data>
+      <data key="d5">&#26041;&#29004;&#26480; suggests focusing on the GraphRAG model during the project presentation</data>
+      <data key="d6">69f224563f78e3774306e7726fc2c378</data>
+    </edge>
+    <edge source="&#26041;&#29004;&#26480;" target="NPU">
+      <data key="d4">1.0</data>
+      <data key="d5">&#26041;&#29004;&#26480; is discussing AI model selection and deployment strategies with NPU, specifically mentioning the GraphRAG model.</data>
+      <data key="d6">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </edge>
+    <edge source="GRAPHRAG" target="NPU">
+      <data key="d4">1.0</data>
+      <data key="d5">GraphRAG is an AI model being evaluated and discussed by NPU for AI deployment.</data>
+      <data key="d6">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </edge>
+    <edge source="GRAPHRAG" target="RAG">
+      <data key="d4">1.0</data>
+      <data key="d5">GraphRAG and RAG are both AI models being compared and discussed in the context of AI deployment and model selection.</data>
+      <data key="d6">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </edge>
+    <edge source="&#23454;&#26102;&#35821;&#38899;&#35782;&#21035;&#21644;&#36716;&#20889;" target="NPU &#30340;&#26412;&#22320;&#21270; AI &#37096;&#32626;">
+      <data key="d4">2.0</data>
+      <data key="d5">Both are highlighted technical features of the project</data>
+      <data key="d6">69f224563f78e3774306e7726fc2c378</data>
+    </edge>
+    <edge source="NPU" target="RAG">
+      <data key="d4">1.0</data>
+      <data key="d5">RAG is an AI model being evaluated and discussed by NPU for AI deployment.</data>
+      <data key="d6">3d653b591e88ecdf49c5a3a97e21c5e5</data>
+    </edge>
+    <edge source="NPU" target="GPU">
+      <data key="d4">6.0</data>
+      <data key="d5">GPU and NPU are both hardware components mentioned in the context of the project, with GPU being used for the 'prefer' phase while NPU's utilization is noted to be low.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="OLLAMA" target="LLM STUDIO">
+      <data key="d4">3.0</data>
+      <data key="d5">Both ollama and llm studio are being compared to the same open-source project by &#31206;&#39046;.
+Ollama and LLM Studio are being compared in terms of power consumption and inference speed</data>
+      <data key="d6">227be88b1ac74a9d82463e0c56e3e0dc,429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="OLLAMA" target="&#24320;&#28304;&#39033;&#30446;">
+      <data key="d4">7.0</data>
+      <data key="d5">The open-source project is being compared to ollama by &#31206;&#39046;, focusing on power consumption and inference speed.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="LLM STUDIO" target="&#24320;&#28304;&#39033;&#30446;">
+      <data key="d4">7.0</data>
+      <data key="d5">The open-source project is being compared to llm studio by &#31206;&#39046;, focusing on power consumption and inference speed.</data>
+      <data key="d6">429e88abcf8d6282ce0bdc363e6a5929</data>
+    </edge>
+    <edge source="30&#21495;" target="&#32769;&#24072;">
+      <data key="d4">1.0</data>
+      <data key="d5">The teacher is involved in coordinating the submission by the 30th</data>
+      <data key="d6">5df32bf8eca3545554beac999393ae8d</data>
+    </edge>
+  </graph>
+</graphml>

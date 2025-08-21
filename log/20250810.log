@@ -1,0 +1,69 @@
+[2025-08-10 20:50:13] Application started
+[2025-08-10 20:50:13] Application started successfully
+[2025-08-10 20:50:17] Active project set to: 'ZHTLLM_Meeting_text'
+[2025-08-10 20:50:32] Querying project 'ZHTLLM_Meeting_text' with query: '都有哪些人员进行了发言
+
+ Answer in English'...
+[2025-08-10 20:50:39] Query configuration updated: Mode set to local, model set to qwen3:0.6b.
+[2025-08-10 20:50:41] Query completed: 
+INFO: Vector Store Args: {}
+creating llm client w
+[2025-08-10 20:51:07] Querying project 'ZHTLLM_Meeting_text' with query: '会议中都有谁发言
+
+ Answer in English'...
+[2025-08-10 20:51:43] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 20:52:09] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 20:52:10] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '会议中都有谁发言
+
+ Answer in Chinese'...
+[2025-08-10 20:52:49] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 20:54:01] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '分析一下几场会议的前后关联对项目的贡献
+
+ Answer in Chinese'...
+[2025-08-10 20:54:56] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 20:56:36] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '如果要开启下一场会议，应该组织哪些成员
+
+ Answer in Chinese'...
+[2025-08-10 20:57:11] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 20:58:17] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '会议中的任务安排与完成情况汇总一下
+
+ Answer in Chinese'...
+[2025-08-10 20:59:15] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:01:06] 当前活动项目: 'ZHTLLM_Meeting_text'
+[2025-08-10 21:11:02] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '什么是大语言模型
+
+ Answer in Chinese'...
+[2025-08-10 21:11:38] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:11:58] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '大语言模型有哪些作用
+
+ Answer in Chinese'...
+[2025-08-10 21:12:48] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:13:30] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 'NPU的应用开发都有哪些
+
+ Answer in Chinese'...
+[2025-08-10 21:14:16] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:14:42] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 'Renzy AI的发展前景如何？
+
+ Answer in Chinese'...
+[2025-08-10 21:14:47] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 21:14:51] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 21:14:56] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 21:15:01] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 21:15:34] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:18:14] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '大语言模型是什么？有哪些功能应用？Renzy AI的发展前景如何？
+
+ Answer in Chin'...
+[2025-08-10 21:18:57] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:21:44] 已为下一次构建选择文件。
+[2025-08-10 21:21:52] 当前活动项目: 'ZHTLLM_Meeting_text'
+[2025-08-10 21:25:30] 设置已更新。
+[2025-08-10 21:26:29] Settings updated.
+[2025-08-10 21:28:11] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:1.7b.
+[2025-08-10 21:28:24] 正在使用查询: 'ZHTLLM_Meeting_text' 查询项目 '方煌杰讲了哪些内容
+
+ Answer in Chinese'...
+[2025-08-10 21:29:47] 查询已完成: creating llm client with {'api_key': 'REDACTED,len
+[2025-08-10 21:47:20] 已为下一次构建选择文件。
+[2025-08-10 21:48:44] 构建配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-10 21:56:02] 查询配置已更新: 模式设置为 local, 模型设置为 qwen3:0.6b.
+[2025-08-11 03:46:18] 项目 'ZHTLLM_Meeting_text' 的自动构建已停止。

@@ -1,0 +1,80 @@
+encoding_model: cl100k_base
+skip_workflows: []
+llm:
+  api_key: local
+  type: openai_chat
+  model: qwen3:4b
+  model_supports_json: true
+  max_tokens: 4096
+  request_timeout: 180.0
+  max_retry_wait: 20.0
+  concurrent_requests: 1
+  temperature: 0.6
+  top_p: 0.9
+  api_base: http://localhost:11434/v1/
+  max_retries: 10000
+parallelization:
+  stagger: 0.3
+async_mode: threaded
+embeddings:
+  async_mode: threaded
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_embedding
+    model: qwen:4b
+    api_base: http://localhost:11500/api
+chunks:
+  size: 300
+  overlap: 100
+  group_by_columns:
+  - id
+input:
+  type: file
+  file_type: text
+  base_dir: input_new
+  file_encoding: utf-8
+  file_pattern: .*\.txt$
+cache:
+  type: file
+  base_dir: cache
+storage:
+  type: file
+  base_dir: output/${timestamp}/artifacts
+reporting:
+  type: file
+  base_dir: output/${timestamp}/artifacts
+entity_extraction:
+  prompt: prompts/entity_extraction.txt
+  entity_types:
+  - organization
+  - person
+  - geo
+  - event
+  max_gleanings: 1
+summarize_descriptions:
+  prompt: prompts/summarize_descriptions.txt
+  max_length: 1000
+claim_extraction:
+  prompt: prompts/claim_extraction.txt
+  description: Any claims or facts that could be relevant to information discovery.
+  max_gleanings: 1
+community_reports:
+  prompt: prompts/community_report.txt
+  max_length: 2000
+  max_input_length: 8000
+cluster_graph:
+  max_cluster_size: 10
+embed_graph:
+  enabled: false
+umap:
+  enabled: false
+snapshots:
+  graphml: true
+  raw_entities: false
+  top_level_nodes: false
+local_search:
+  llm_temperature: 0.6
+  llm_top_p: 0.9
+global_search:
+  llm_temperature: 0.6
+  llm_top_p: 0.9

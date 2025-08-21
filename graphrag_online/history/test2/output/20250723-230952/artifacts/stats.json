@@ -1,0 +1,105 @@
+{
+    "total_runtime": 49.196632385253906,
+    "num_documents": 2,
+    "input_load_time": 0,
+    "workflows": {
+        "create_base_text_units": {
+            "overall": 0.11118125915527344,
+            "0_orderby": 0.0,
+            "1_zip": 0.0,
+            "2_aggregate_override": 0.0,
+            "3_chunk": 0.11118125915527344,
+            "4_select": 0.0,
+            "5_unroll": 0.0,
+            "6_rename": 0.0,
+            "7_genid": 0.0,
+            "8_unzip": 0.0,
+            "9_copy": 0.0,
+            "10_filter": 0.0
+        },
+        "create_base_extracted_entities": {
+            "overall": 0.15782713890075684,
+            "0_entity_extract": 0.15782713890075684,
+            "1_merge_graphs": 0.0,
+            "2_snapshot_rows": 0.0
+        },
+        "create_summarized_entities": {
+            "overall": 7.964555263519287,
+            "0_summarize_descriptions": 7.964555263519287,
+            "1_snapshot_rows": 0.0
+        },
+        "create_base_entity_graph": {
+            "overall": 0.01613903045654297,
+            "0_cluster_graph": 0.01613903045654297,
+            "1_snapshot_rows": 0.0,
+            "2_snapshot_rows": 0.0,
+            "3_select": 0.0
+        },
+        "create_final_entities": {
+            "overall": 1.5429103374481201,
+            "0_unpack_graph": 0.010809659957885742,
+            "1_rename": 0.0020089149475097656,
+            "2_select": 0.0,
+            "3_dedupe": 0.0,
+            "4_rename": 0.0,
+            "5_filter": 0.004525423049926758,
+            "6_text_split": 0.0,
+            "7_drop": 0.0,
+            "8_merge": 0.005252838134765625,
+            "9_text_embed": 1.5203135013580322,
+            "10_drop": 0.0,
+            "11_filter": 0.0
+        },
+        "create_final_nodes": {
+            "overall": 0.015915393829345703,
+            "0_layout_graph": 0.0,
+            "1_unpack_graph": 0.0,
+            "2_unpack_graph": 0.0,
+            "3_drop": 0.0,
+            "4_filter": 0.0,
+            "5_select": 0.0,
+            "6_rename": 0.015915393829345703,
+            "7_join": 0.0,
+            "8_convert": 0.0,
+            "9_rename": 0.0
+        },
+        "create_final_communities": {
+            "overall": 0.0,
+            "0_create_final_communities": 0.0
+        },
+        "create_final_relationships": {
+            "overall": 0.0107879638671875,
+            "0_create_final_relationships_pre_embedding": 0.0107879638671875,
+            "1_create_final_relationships_post_embedding": 0.0
+        },
+        "create_final_text_units": {
+            "overall": 0.01604938507080078,
+            "0_create_final_text_units_pre_embedding": 0.01604938507080078,
+            "1_select": 0.0
+        },
+        "create_final_community_reports": {
+            "overall": 35.99363946914673,
+            "0_prepare_community_reports_nodes": 0.0,
+            "1_prepare_community_reports_edges": 0.0,
+            "2_restore_community_hierarchy": 0.0,
+            "3_prepare_community_reports": 0.015420675277709961,
+            "4_create_community_reports": 35.97821879386902,
+            "5_window": 0.0
+        },
+        "create_base_documents": {
+            "overall": 0.013153553009033203,
+            "0_unroll": 0.0,
+            "1_select": 0.0,
+            "2_rename": 0.0,
+            "3_join": 0.0,
+            "4_aggregate_override": 0.0,
+            "5_join": 0.013153553009033203,
+            "6_rename": 0.0,
+            "7_convert": 0.0
+        },
+        "create_final_documents": {
+            "overall": 0.0,
+            "0_rename": 0.0
+        }
+    }
+}
