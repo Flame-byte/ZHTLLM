@@ -48,7 +48,7 @@ cd C:\your-path\ZHTLLM
 ### Step 4: Run the GUI  
 
 ```bash
-python main_gui_4.py
+python main_gui_v4.py
 ```
 
 ---
