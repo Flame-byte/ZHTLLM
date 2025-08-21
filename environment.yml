@@ -244,5 +244,6 @@ dependencies:
       - wrapt==1.17.2
       - xxhash==3.5.0
       - yarl==1.20.1
-prefix: C:\Users\wisemodel-aipc-06-e\anaconda3\envs\ZHTLLM_2
+prefix: C:\Users\wisemodel-aipc-06-e\anaconda3\envs\ZHTLLM
+
 
